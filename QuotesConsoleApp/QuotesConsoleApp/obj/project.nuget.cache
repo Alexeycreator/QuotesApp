@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMF5PF53V/KqIuk+aMGm/HZBJErc1q63V7pniSS4VtEw+0suSgRgDg2Y/OHuNgz38XFAGIoui96Ogpri/5sAcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\Desktop\\Учеба\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\QuotesConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}
