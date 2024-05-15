@@ -9,14 +9,14 @@ namespace QuotesConsoleApp
 {
     class CsvWriter
     {
-        public void Write(string CSVFilePath)
+        public void Write(string CSVFilePath, List<QuotesModel> quotes)
         {
             StringBuilder csvBuilder = new StringBuilder();
-            csvBuilder.AppendLine("");
-            //foreach ()
-            //{
-
-            //}
+            csvBuilder.AppendLine("Name;Bid;Ask");
+            foreach (var item in quotes)
+            {
+                csvBuilder.AppendLine($"{item.Name};{item.Bid};{item.Ask}");
+            }
             File.WriteAllText(CSVFilePath, csvBuilder.ToString());
         }
     }

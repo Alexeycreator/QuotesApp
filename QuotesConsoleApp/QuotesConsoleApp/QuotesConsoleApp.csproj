@@ -10,4 +10,8 @@
     <PackageReference Include="NLog.Config" Version="4.7.15" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="QuotesFiles\" />
+  </ItemGroup>
+
 </Project>

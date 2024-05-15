@@ -7,6 +7,8 @@ namespace QuotesConsoleApp
     {
         static void Main(string[] args)
         {
+            FillingQuotes fillingQuotes = new FillingQuotes();
+            fillingQuotes.GetQuotes();
             Console.WriteLine("Приложение закончило работу!");
             Console.ReadKey();
         }

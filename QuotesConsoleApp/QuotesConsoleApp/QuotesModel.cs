@@ -9,7 +9,7 @@ namespace QuotesConsoleApp
     class QuotesModel
     {
         public string Name { get; set; }
-        public double Bid { get; set; }
-        public double Ask { get; set; }
+        public int Bid { get; set; }
+        public int Ask { get; set; }
     }
 }
