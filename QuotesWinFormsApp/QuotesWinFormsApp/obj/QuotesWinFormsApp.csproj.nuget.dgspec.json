@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Алексей\\Desktop\\Учеба\\github\\QuotesApp\\QuotesWinFormsApp\\QuotesWinFormsApp\\QuotesWinFormsApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Алексей\\Desktop\\Учеба\\github\\QuotesApp\\QuotesWinFormsApp\\QuotesWinFormsApp\\QuotesWinFormsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Алексей\\Desktop\\Учеба\\github\\QuotesApp\\QuotesWinFormsApp\\QuotesWinFormsApp\\QuotesWinFormsApp.csproj",
+        "projectName": "QuotesWinFormsApp",
+        "projectPath": "C:\\Users\\Алексей\\Desktop\\Учеба\\github\\QuotesApp\\QuotesWinFormsApp\\QuotesWinFormsApp\\QuotesWinFormsApp.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Алексей\\Desktop\\Учеба\\github\\QuotesApp\\QuotesWinFormsApp\\QuotesWinFormsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            },
+            "devexpress.data": {
+              "target": "Package",
+              "version": "[23.2.5, )"
+            },
+            "devexpress.win.charts": {
+              "target": "Package",
+              "version": "[23.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

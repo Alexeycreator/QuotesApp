@@ -29,7 +29,9 @@ namespace QuotesConsoleApp
                 {
                     int valueBids = random.Next(1, 100);
                     _logger.Info("Получены рандомные значения для bid");
-                    int valueAsks = random.Next(1, 100);
+                    int downLimit = (int)(valueBids / 2);
+                    int upperLimit = (int)(valueBids * 2) > 100 ? 100 : (int)(valueBids * 2);
+                    int valueAsks = random.Next(downLimit, upperLimit);
                     _logger.Info("Получены рандомные значения для ask");
                     bids[i] = valueBids;
                     asks[i] = valueAsks;
@@ -39,7 +41,7 @@ namespace QuotesConsoleApp
                         {
                             quotes.Add(new QuotesModel
                             {
-                                Name = "MSFT",
+                                Name = $"MSFT_{i + 1}",
                                 Bid = bids[i],
                                 Ask = asks[i],
                             });
@@ -52,7 +54,7 @@ namespace QuotesConsoleApp
                         {
                             quotes.Add(new QuotesModel
                             {
-                                Name = "APPL",
+                                Name = $"APPL_{i + 1}",
                                 Bid = bids[i],
                                 Ask = asks[i],
                             });
@@ -65,7 +67,7 @@ namespace QuotesConsoleApp
                         {
                             quotes.Add(new QuotesModel
                             {
-                                Name = "VIX",
+                                Name = $"VIX_{i + 1}",
                                 Bid = bids[i],
                                 Ask = asks[i],
                             });

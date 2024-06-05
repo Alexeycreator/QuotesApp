@@ -6,4 +6,11 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="devexpress.data" Version="23.2.5" />
+    <PackageReference Include="devexpress.win.charts" Version="23.2.5" />
+    <PackageReference Include="NLog" Version="5.3.2" />
+    <PackageReference Include="NLog.Config" Version="4.7.15" />
+  </ItemGroup>
+
 </Project>

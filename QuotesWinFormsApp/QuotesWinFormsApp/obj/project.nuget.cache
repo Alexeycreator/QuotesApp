@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQDthLeFM/Wk3is7tbsj1znos5jdAcOG7Btkbhos0hYGN+0K+lIVOIdQoUoPpYZosMT1Dj6a9Dmf9aU7kGmvOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\Desktop\\Учеба\\github\\QuotesApp\\QuotesWinFormsApp\\QuotesWinFormsApp\\QuotesWinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages\\devexpress.data\\23.2.5\\devexpress.data.23.2.5.nupkg.sha512",
+    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages\\devexpress.win.charts\\23.2.5\\devexpress.win.charts.23.2.5.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"DevExpress.Data 23.2.5\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "DevExpress.Data",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"DevExpress.Win.Charts 23.2.5\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "DevExpress.Win.Charts",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
