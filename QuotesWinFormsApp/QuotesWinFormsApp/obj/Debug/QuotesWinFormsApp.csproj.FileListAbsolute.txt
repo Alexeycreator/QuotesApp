@@ -1,0 +1,14 @@
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\QuotesWinFormsApp.exe.config
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\QuotesWinFormsApp.exe
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\QuotesWinFormsApp.pdb
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWinFormsApp.MainForm.resources
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWinFormsApp.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWinFormsApp.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWinFormsApp.exe
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWinFormsApp.pdb
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\NLog.config
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\NLog.dll
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\NLog.xml
+C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\obj\Debug\QuotesWi.24C9FD7F.Up2Date

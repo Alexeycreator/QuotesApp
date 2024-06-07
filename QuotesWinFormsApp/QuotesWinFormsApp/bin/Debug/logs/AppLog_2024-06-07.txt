@@ -1,0 +1,1252 @@
+2024-06-07 14:55:44.5109 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5109 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5109 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5109 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5109 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5109 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5386 QuotesWinFormsApp.MainForm Данные для переменной x добавлены.
+2024-06-07 14:55:44.5591 QuotesWinFormsApp.MainForm System.ArgumentException: Элемент диаграммы с именем "itemY" не удается найти в "SeriesCollection".System.ArgumentException: Элемент диаграммы с именем "itemY" не удается найти в "SeriesCollection".
+   в System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   в QuotesWinFormsApp.MainForm.btnPrintGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 76
+2024-06-07 15:17:13.0159 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:17:13.0680 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:17:13.0705 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:50.9353 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:17:50.9958 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:17:50.9958 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:17:51.0113 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9338 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:18:12.9838 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:19:08.6496 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:19:08.6948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.0437 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:20:47.1036 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:20:57.5159 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:20:58.3129 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:20:58.8928 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2391 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:20:59.2425 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:20:59.4098 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.3971 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:07.4527 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:07.4527 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:07.4678 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.3656 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:42.4221 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:42.4221 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:42.4369 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:51.5948 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:54.3509 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:55.3500 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:55.7574 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:55.9290 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:56.0932 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Файл существует.
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2024-06-07 15:22:56.2505 QuotesWinFormsApp.MainForm Точка добавлена на график
