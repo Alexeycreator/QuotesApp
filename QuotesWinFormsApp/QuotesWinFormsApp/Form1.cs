@@ -1,16 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 using System.IO;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
 using NLog;
-using System.Windows.Forms.DataVisualization.Charting;
+using System.Configuration;
 
 namespace QuotesWinFormsApp
 {
@@ -18,7 +14,7 @@ namespace QuotesWinFormsApp
     {
         private static Logger logger = LogManager.GetCurrentClassLogger();
         private static string dateGetQuetos = DateTime.Now.ToShortDateString();
-        private readonly string filePath = $@"C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes{dateGetQuetos}.csv";
+        private readonly string filePathCSV = $@"C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes{dateGetQuetos}.csv";
         public MainForm()
         {
             InitializeComponent();
@@ -26,10 +22,11 @@ namespace QuotesWinFormsApp
         }
         private void MainForm_Load(object sender, EventArgs e)
         {
-            chartGraph.ChartAreas[0].AxisY.Maximum = 101;
-            chartGraph.ChartAreas[0].AxisY.Minimum = -5;
-            chartGraph.ChartAreas[0].AxisX.Maximum = 101;
-            chartGraph.ChartAreas[0].AxisX.Minimum = -5;
+            chartGraph.ChartAreas[0].AxisY.Maximum = 100;
+            chartGraph.ChartAreas[0].AxisY.Minimum = 0;
+            chartGraph.ChartAreas[0].AxisX.Maximum = 100;
+            chartGraph.ChartAreas[0].AxisX.Minimum = 0;
+            chartGraph.ChartAreas[0].AxisX.Title = "Ось X";
         }
         private void btnAddDataGraph_Click(object sender, EventArgs e)
         {
@@ -37,7 +34,7 @@ namespace QuotesWinFormsApp
             {
                 logger.Info("Файл существует.");
                 //Считываем данные с файла
-                string[] quetos = File.ReadAllLines(filePath);
+                string[] quetos = File.ReadAllLines(filePathCSV);
                 logger.Info($"Данные получилось считать.");
                 //Добавляем данные в структуру
                 List<QuetosModel> dataRows = quetos.Select(s => s.Split(';')).Select(row => new QuetosModel { name = row[0], x = row[1], y = row[2] }).ToList();
@@ -48,16 +45,30 @@ namespace QuotesWinFormsApp
                     dataRow.x = Convert.ToInt32(dataRows[i].x);
                     dataRow.y = Convert.ToInt32(dataRows[i].y);
                     dataRow.mid = MidValueCalculation(dataRow.x, dataRow.y);
-                    logger.Info($"Данные добавлены {i} из 30");
+                    logger.Info($"Данные добавлены {i} из 30.");
                     //Отрисовка точек на графике
-                    chartGraph.Series[0].Points.AddXY(dataRow.x, dataRow.y);
-                    logger.Info($"Точка добавлена на график");
+                    if (radioBtn_Bid.Checked)
+                    {
+                        chartGraph.Series[0].Points.AddY(dataRow.x);
+                        logger.Info($"Отросовался график с данными Bid.");
+                    }
+                    else if (radioBtn_Ask.Checked)
+                    {
+                        chartGraph.Series[0].Points.AddY(dataRow.y);
+                        logger.Info($"Отросовался график с данными Ask.");
+                    }
+                    else if (radioBtn_Mid.Checked)
+                    {
+                        chartGraph.Series[0].Points.AddY(dataRow.mid);
+                        logger.Info($"Отросовался график с данными Mid.");
+                    }
+                    logger.Info($"Точки добавлены на график.");
+                    //Для значения количества потоков
+                    string path = ConfigurationManager.AppSettings["quantity"];
                 }
-                
             }
             catch (Exception ex)
             {
-                logger.Info("Файла на существует!");
                 logger.Error(ex);
             }
         }
