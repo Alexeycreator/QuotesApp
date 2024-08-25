@@ -1,0 +1,858 @@
+2024-08-20 11:54:45.5937 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 11:54:45.6430 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 11:55:31.5613 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 11:55:31.6063 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 11:55:31.6210 QuotesWinFormsApp.MainForm Зашли в цикл, номер итерации: 1
+2024-08-20 11:55:31.6290 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 1
+2024-08-20 11:55:31.6290 QuotesWinFormsApp.MainForm Точка 54 отрисована на графике
+2024-08-20 11:55:31.7462 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 2
+2024-08-20 11:55:31.7462 QuotesWinFormsApp.MainForm Точка 88 отрисована на графике
+2024-08-20 11:55:31.8531 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 3
+2024-08-20 11:55:31.8531 QuotesWinFormsApp.MainForm Точка 91 отрисована на графике
+2024-08-20 11:55:31.9560 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 4
+2024-08-20 11:55:31.9560 QuotesWinFormsApp.MainForm Точка 2 отрисована на графике
+2024-08-20 11:55:32.0697 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 5
+2024-08-20 11:55:32.0697 QuotesWinFormsApp.MainForm Точка 93 отрисована на графике
+2024-08-20 11:55:32.1838 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 6
+2024-08-20 11:55:32.1838 QuotesWinFormsApp.MainForm Точка 72 отрисована на графике
+2024-08-20 11:55:32.2860 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 7
+2024-08-20 11:55:32.2860 QuotesWinFormsApp.MainForm Точка 60 отрисована на графике
+2024-08-20 11:55:32.4019 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 8
+2024-08-20 11:55:32.4019 QuotesWinFormsApp.MainForm Точка 41 отрисована на графике
+2024-08-20 11:55:32.5044 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 9
+2024-08-20 11:55:32.5044 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:32.6175 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 10
+2024-08-20 11:55:32.6175 QuotesWinFormsApp.MainForm Точка 14 отрисована на графике
+2024-08-20 11:55:32.7257 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 11
+2024-08-20 11:55:32.7257 QuotesWinFormsApp.MainForm Точка 26 отрисована на графике
+2024-08-20 11:55:32.8359 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 12
+2024-08-20 11:55:32.8359 QuotesWinFormsApp.MainForm Точка 86 отрисована на графике
+2024-08-20 11:55:32.9434 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 13
+2024-08-20 11:55:32.9434 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:33.0477 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 14
+2024-08-20 11:55:33.0477 QuotesWinFormsApp.MainForm Точка 59 отрисована на графике
+2024-08-20 11:55:33.1606 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 15
+2024-08-20 11:55:33.1606 QuotesWinFormsApp.MainForm Точка 32 отрисована на графике
+2024-08-20 11:55:33.2763 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 16
+2024-08-20 11:55:33.2763 QuotesWinFormsApp.MainForm Точка 15 отрисована на графике
+2024-08-20 11:55:33.3842 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 17
+2024-08-20 11:55:33.3842 QuotesWinFormsApp.MainForm Точка 43 отрисована на графике
+2024-08-20 11:55:33.4924 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 18
+2024-08-20 11:55:33.4924 QuotesWinFormsApp.MainForm Точка 16 отрисована на графике
+2024-08-20 11:55:33.5999 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 19
+2024-08-20 11:55:33.5999 QuotesWinFormsApp.MainForm Точка 12 отрисована на графике
+2024-08-20 11:55:33.7093 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 20
+2024-08-20 11:55:33.7093 QuotesWinFormsApp.MainForm Точка 32 отрисована на графике
+2024-08-20 11:55:33.8169 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 21
+2024-08-20 11:55:33.8169 QuotesWinFormsApp.MainForm Точка 53 отрисована на графике
+2024-08-20 11:55:33.9203 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 22
+2024-08-20 11:55:33.9203 QuotesWinFormsApp.MainForm Точка 35 отрисована на графике
+2024-08-20 11:55:34.0346 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 23
+2024-08-20 11:55:34.0346 QuotesWinFormsApp.MainForm Точка 35 отрисована на графике
+2024-08-20 11:55:34.1491 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 24
+2024-08-20 11:55:34.1491 QuotesWinFormsApp.MainForm Точка 37 отрисована на графике
+2024-08-20 11:55:34.2545 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 25
+2024-08-20 11:55:34.2545 QuotesWinFormsApp.MainForm Точка 5 отрисована на графике
+2024-08-20 11:55:34.3702 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 26
+2024-08-20 11:55:34.3702 QuotesWinFormsApp.MainForm Точка 64 отрисована на графике
+2024-08-20 11:55:34.4828 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 27
+2024-08-20 11:55:34.4828 QuotesWinFormsApp.MainForm Точка 34 отрисована на графике
+2024-08-20 11:55:34.5920 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 28
+2024-08-20 11:55:34.5920 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:34.7005 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 29
+2024-08-20 11:55:34.7005 QuotesWinFormsApp.MainForm Точка 87 отрисована на графике
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Зашли в цикл, номер итерации: 1
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 1
+2024-08-20 11:55:42.5665 QuotesWinFormsApp.MainForm Точка 80 отрисована на графике
+2024-08-20 11:55:42.6766 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 2
+2024-08-20 11:55:42.6766 QuotesWinFormsApp.MainForm Точка 56 отрисована на графике
+2024-08-20 11:55:42.7914 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 3
+2024-08-20 11:55:42.7914 QuotesWinFormsApp.MainForm Точка 76 отрисована на графике
+2024-08-20 11:55:42.8991 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 4
+2024-08-20 11:55:42.8991 QuotesWinFormsApp.MainForm Точка 3 отрисована на графике
+2024-08-20 11:55:43.0057 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 5
+2024-08-20 11:55:43.0057 QuotesWinFormsApp.MainForm Точка 69 отрисована на графике
+2024-08-20 11:55:43.1183 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 6
+2024-08-20 11:55:43.1183 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:43.2272 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 7
+2024-08-20 11:55:43.2272 QuotesWinFormsApp.MainForm Точка 53 отрисована на графике
+2024-08-20 11:55:43.3358 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 8
+2024-08-20 11:55:43.3358 QuotesWinFormsApp.MainForm Точка 58 отрисована на графике
+2024-08-20 11:55:43.4479 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 9
+2024-08-20 11:55:43.4479 QuotesWinFormsApp.MainForm Точка 78 отрисована на графике
+2024-08-20 11:55:43.5509 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 10
+2024-08-20 11:55:43.5509 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:43.6595 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 11
+2024-08-20 11:55:43.6595 QuotesWinFormsApp.MainForm Точка 34 отрисована на графике
+2024-08-20 11:55:43.7693 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 12
+2024-08-20 11:55:43.7693 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:43.8782 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 13
+2024-08-20 11:55:43.8782 QuotesWinFormsApp.MainForm Точка 12 отрисована на графике
+2024-08-20 11:55:43.9839 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 14
+2024-08-20 11:55:43.9839 QuotesWinFormsApp.MainForm Точка 76 отрисована на графике
+2024-08-20 11:55:44.0984 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 15
+2024-08-20 11:55:44.0984 QuotesWinFormsApp.MainForm Точка 51 отрисована на графике
+2024-08-20 11:55:44.2105 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 16
+2024-08-20 11:55:44.2105 QuotesWinFormsApp.MainForm Точка 25 отрисована на графике
+2024-08-20 11:55:44.3228 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 17
+2024-08-20 11:55:44.3228 QuotesWinFormsApp.MainForm Точка 57 отрисована на графике
+2024-08-20 11:55:44.4346 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 18
+2024-08-20 11:55:44.4346 QuotesWinFormsApp.MainForm Точка 18 отрисована на графике
+2024-08-20 11:55:44.5468 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 19
+2024-08-20 11:55:44.5468 QuotesWinFormsApp.MainForm Точка 17 отрисована на графике
+2024-08-20 11:55:44.6526 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 20
+2024-08-20 11:55:44.6526 QuotesWinFormsApp.MainForm Точка 21 отрисована на графике
+2024-08-20 11:55:44.7670 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 21
+2024-08-20 11:55:44.7670 QuotesWinFormsApp.MainForm Точка 35 отрисована на графике
+2024-08-20 11:55:44.8806 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 22
+2024-08-20 11:55:44.8806 QuotesWinFormsApp.MainForm Точка 24 отрисована на графике
+2024-08-20 11:55:44.9972 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 23
+2024-08-20 11:55:44.9972 QuotesWinFormsApp.MainForm Точка 66 отрисована на графике
+2024-08-20 11:55:45.1096 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 24
+2024-08-20 11:55:45.1096 QuotesWinFormsApp.MainForm Точка 44 отрисована на графике
+2024-08-20 11:55:45.2240 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 25
+2024-08-20 11:55:45.2240 QuotesWinFormsApp.MainForm Точка 9 отрисована на графике
+2024-08-20 11:55:45.3380 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 26
+2024-08-20 11:55:45.3380 QuotesWinFormsApp.MainForm Точка 49 отрисована на графике
+2024-08-20 11:55:45.4487 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 27
+2024-08-20 11:55:45.4487 QuotesWinFormsApp.MainForm Точка 27 отрисована на графике
+2024-08-20 11:55:45.5496 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 28
+2024-08-20 11:55:45.5496 QuotesWinFormsApp.MainForm Точка 43 отрисована на графике
+2024-08-20 11:55:45.6653 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 29
+2024-08-20 11:55:45.6653 QuotesWinFormsApp.MainForm Точка 89 отрисована на графике
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 11:55:46.6818 QuotesWinFormsApp.MainForm Зашли в цикл, номер итерации: 1
+2024-08-20 11:55:48.4013 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 1
+2024-08-20 11:55:48.4013 QuotesWinFormsApp.MainForm Точка 80 отрисована на графике
+2024-08-20 11:55:48.5102 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 2
+2024-08-20 11:55:48.5102 QuotesWinFormsApp.MainForm Точка 56 отрисована на графике
+2024-08-20 11:55:48.6159 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 3
+2024-08-20 11:55:48.6159 QuotesWinFormsApp.MainForm Точка 76 отрисована на графике
+2024-08-20 11:55:48.7307 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 4
+2024-08-20 11:55:48.7307 QuotesWinFormsApp.MainForm Точка 3 отрисована на графике
+2024-08-20 11:55:48.8364 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 5
+2024-08-20 11:55:48.8364 QuotesWinFormsApp.MainForm Точка 69 отрисована на графике
+2024-08-20 11:55:48.9451 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 6
+2024-08-20 11:55:48.9451 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Зашли в цикл, номер итерации: 1
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 1
+2024-08-20 11:55:49.0379 QuotesWinFormsApp.MainForm Точка 80 отрисована на графике
+2024-08-20 11:55:49.0595 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 7
+2024-08-20 11:55:49.0595 QuotesWinFormsApp.MainForm Точка 53 отрисована на графике
+2024-08-20 11:55:49.1581 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 2
+2024-08-20 11:55:49.1761 QuotesWinFormsApp.MainForm Точка 56 отрисована на графике
+2024-08-20 11:55:49.1761 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 8
+2024-08-20 11:55:49.1761 QuotesWinFormsApp.MainForm Точка 58 отрисована на графике
+2024-08-20 11:55:49.2925 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 3
+2024-08-20 11:55:49.2925 QuotesWinFormsApp.MainForm Точка 76 отрисована на графике
+2024-08-20 11:55:49.2925 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 9
+2024-08-20 11:55:49.2925 QuotesWinFormsApp.MainForm Точка 78 отрисована на графике
+2024-08-20 11:55:49.4018 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 10
+2024-08-20 11:55:49.4018 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:49.4018 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 4
+2024-08-20 11:55:49.4018 QuotesWinFormsApp.MainForm Точка 3 отрисована на графике
+2024-08-20 11:55:49.5179 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 5
+2024-08-20 11:55:49.5179 QuotesWinFormsApp.MainForm Точка 69 отрисована на графике
+2024-08-20 11:55:49.5179 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 11
+2024-08-20 11:55:49.5179 QuotesWinFormsApp.MainForm Точка 34 отрисована на графике
+2024-08-20 11:55:49.6242 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 12
+2024-08-20 11:55:49.6242 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:49.6242 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 6
+2024-08-20 11:55:49.6242 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:49.7308 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 13
+2024-08-20 11:55:49.7308 QuotesWinFormsApp.MainForm Точка 12 отрисована на графике
+2024-08-20 11:55:49.7308 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 7
+2024-08-20 11:55:49.7308 QuotesWinFormsApp.MainForm Точка 53 отрисована на графике
+2024-08-20 11:55:49.8459 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 8
+2024-08-20 11:55:49.8459 QuotesWinFormsApp.MainForm Точка 58 отрисована на графике
+2024-08-20 11:55:49.8459 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 14
+2024-08-20 11:55:49.8459 QuotesWinFormsApp.MainForm Точка 76 отрисована на графике
+2024-08-20 11:55:49.9535 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 9
+2024-08-20 11:55:49.9535 QuotesWinFormsApp.MainForm Точка 78 отрисована на графике
+2024-08-20 11:55:49.9535 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 15
+2024-08-20 11:55:49.9535 QuotesWinFormsApp.MainForm Точка 51 отрисована на графике
+2024-08-20 11:55:50.0672 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 10
+2024-08-20 11:55:50.0672 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:50.1776 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 11
+2024-08-20 11:55:50.1776 QuotesWinFormsApp.MainForm Точка 34 отрисована на графике
+2024-08-20 11:55:50.2793 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 12
+2024-08-20 11:55:50.2793 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:50.3950 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 13
+2024-08-20 11:55:50.3950 QuotesWinFormsApp.MainForm Точка 12 отрисована на графике
+2024-08-20 11:55:50.5098 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 14
+2024-08-20 11:55:50.5098 QuotesWinFormsApp.MainForm Точка 76 отрисована на графике
+2024-08-20 11:55:50.6170 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 15
+2024-08-20 11:55:50.6170 QuotesWinFormsApp.MainForm Точка 51 отрисована на графике
+2024-08-20 11:55:50.7323 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 16
+2024-08-20 11:55:50.7323 QuotesWinFormsApp.MainForm Точка 25 отрисована на графике
+2024-08-20 11:55:50.8472 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 17
+2024-08-20 11:55:50.8472 QuotesWinFormsApp.MainForm Точка 57 отрисована на графике
+2024-08-20 11:55:50.9607 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 18
+2024-08-20 11:55:50.9607 QuotesWinFormsApp.MainForm Точка 18 отрисована на графике
+2024-08-20 11:55:51.0668 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 19
+2024-08-20 11:55:51.0668 QuotesWinFormsApp.MainForm Точка 12 отрисована на графике
+2024-08-20 11:55:51.1765 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 20
+2024-08-20 11:55:51.1765 QuotesWinFormsApp.MainForm Точка 32 отрисована на графике
+2024-08-20 11:55:51.2895 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 21
+2024-08-20 11:55:51.2895 QuotesWinFormsApp.MainForm Точка 53 отрисована на графике
+2024-08-20 11:55:51.4030 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 22
+2024-08-20 11:55:51.4030 QuotesWinFormsApp.MainForm Точка 35 отрисована на графике
+2024-08-20 11:55:51.5104 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 23
+2024-08-20 11:55:51.5104 QuotesWinFormsApp.MainForm Точка 35 отрисована на графике
+2024-08-20 11:55:51.6251 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 24
+2024-08-20 11:55:51.6251 QuotesWinFormsApp.MainForm Точка 37 отрисована на графике
+2024-08-20 11:55:51.7291 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 25
+2024-08-20 11:55:51.7291 QuotesWinFormsApp.MainForm Точка 5 отрисована на графике
+2024-08-20 11:55:51.8336 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 26
+2024-08-20 11:55:51.8336 QuotesWinFormsApp.MainForm Точка 64 отрисована на графике
+2024-08-20 11:55:51.9370 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 27
+2024-08-20 11:55:51.9370 QuotesWinFormsApp.MainForm Точка 34 отрисована на графике
+2024-08-20 11:55:52.0460 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 28
+2024-08-20 11:55:52.0460 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Зашли в цикл, номер итерации: 1
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 1
+2024-08-20 11:55:52.1300 QuotesWinFormsApp.MainForm Точка 54 отрисована на графике
+2024-08-20 11:55:52.1514 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 29
+2024-08-20 11:55:52.1514 QuotesWinFormsApp.MainForm Точка 87 отрисована на графике
+2024-08-20 11:55:52.2339 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 2
+2024-08-20 11:55:52.2339 QuotesWinFormsApp.MainForm Точка 88 отрисована на графике
+2024-08-20 11:55:52.3485 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 3
+2024-08-20 11:55:52.3485 QuotesWinFormsApp.MainForm Точка 91 отрисована на графике
+2024-08-20 11:55:52.4528 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 4
+2024-08-20 11:55:52.4528 QuotesWinFormsApp.MainForm Точка 2 отрисована на графике
+2024-08-20 11:55:52.5675 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 5
+2024-08-20 11:55:52.5675 QuotesWinFormsApp.MainForm Точка 93 отрисована на графике
+2024-08-20 11:55:52.6812 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 6
+2024-08-20 11:55:52.6812 QuotesWinFormsApp.MainForm Точка 72 отрисована на графике
+2024-08-20 11:55:52.7944 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 7
+2024-08-20 11:55:52.7944 QuotesWinFormsApp.MainForm Точка 60 отрисована на графике
+2024-08-20 11:55:52.9093 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 8
+2024-08-20 11:55:52.9093 QuotesWinFormsApp.MainForm Точка 41 отрисована на графике
+2024-08-20 11:55:53.0243 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 9
+2024-08-20 11:55:53.0243 QuotesWinFormsApp.MainForm Точка 46 отрисована на графике
+2024-08-20 11:55:53.1262 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 10
+2024-08-20 11:55:53.1262 QuotesWinFormsApp.MainForm Точка 14 отрисована на графике
+2024-08-20 11:55:53.2327 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 11
+2024-08-20 11:55:53.2327 QuotesWinFormsApp.MainForm Точка 26 отрисована на графике
+2024-08-20 11:55:53.3389 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 12
+2024-08-20 11:55:53.3389 QuotesWinFormsApp.MainForm Точка 86 отрисована на графике
+2024-08-20 11:55:53.4498 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 13
+2024-08-20 11:55:53.4498 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:53.5571 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 14
+2024-08-20 11:55:53.5571 QuotesWinFormsApp.MainForm Точка 59 отрисована на графике
+2024-08-20 11:55:53.6644 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 15
+2024-08-20 11:55:53.6644 QuotesWinFormsApp.MainForm Точка 32 отрисована на графике
+2024-08-20 11:55:53.7721 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 16
+2024-08-20 11:55:53.7721 QuotesWinFormsApp.MainForm Точка 15 отрисована на графике
+2024-08-20 11:55:53.8778 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 17
+2024-08-20 11:55:53.8778 QuotesWinFormsApp.MainForm Точка 43 отрисована на графике
+2024-08-20 11:55:53.9897 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 18
+2024-08-20 11:55:53.9897 QuotesWinFormsApp.MainForm Точка 16 отрисована на графике
+2024-08-20 11:55:54.0997 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 19
+2024-08-20 11:55:54.0997 QuotesWinFormsApp.MainForm Точка 12 отрисована на графике
+2024-08-20 11:55:54.2050 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 20
+2024-08-20 11:55:54.2050 QuotesWinFormsApp.MainForm Точка 32 отрисована на графике
+2024-08-20 11:55:54.3133 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 21
+2024-08-20 11:55:54.3133 QuotesWinFormsApp.MainForm Точка 53 отрисована на графике
+2024-08-20 11:55:54.4284 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 22
+2024-08-20 11:55:54.4284 QuotesWinFormsApp.MainForm Точка 35 отрисована на графике
+2024-08-20 11:55:54.5449 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 23
+2024-08-20 11:55:54.5449 QuotesWinFormsApp.MainForm Точка 35 отрисована на графике
+2024-08-20 11:55:54.6495 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 24
+2024-08-20 11:55:54.6495 QuotesWinFormsApp.MainForm Точка 37 отрисована на графике
+2024-08-20 11:55:54.7556 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 25
+2024-08-20 11:55:54.7556 QuotesWinFormsApp.MainForm Точка 5 отрисована на графике
+2024-08-20 11:55:54.8627 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 26
+2024-08-20 11:55:54.8627 QuotesWinFormsApp.MainForm Точка 64 отрисована на графике
+2024-08-20 11:55:54.9768 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 27
+2024-08-20 11:55:54.9768 QuotesWinFormsApp.MainForm Точка 34 отрисована на графике
+2024-08-20 11:55:55.0856 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 28
+2024-08-20 11:55:55.0856 QuotesWinFormsApp.MainForm Точка 22 отрисована на графике
+2024-08-20 11:55:55.2006 QuotesWinFormsApp.MainForm Начало отрисовки точки графика, номер итерации: 29
+2024-08-20 11:55:55.2006 QuotesWinFormsApp.MainForm Точка 87 отрисована на графике
+2024-08-20 11:59:42.7599 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 11:59:42.8008 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:00:20.9306 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:00:20.9622 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:01:45.9765 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:01:46.0087 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:06:46.6221 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:07:33.5062 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:07:33.5527 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:08:13.1159 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:08:13.1554 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:11:45.3745 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:11:45.4067 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:14:18.1730 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:14:18.2033 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:19:26.8248 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:19:26.8475 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:36:13.8353 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:36:13.8658 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:47:44.0379 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:47:44.0795 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:48:31.2532 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:48:31.2916 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:49:14.0426 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:49:14.0747 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:55:42.9688 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:55:43.0016 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:56:21.3440 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:56:21.3760 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:58:32.7501 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:58:32.7907 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:59:10.6215 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:59:10.6540 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 12:59:24.7397 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 12:59:24.7711 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 13:01:51.8974 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 13:01:51.9300 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-08-20 13:11:05.3661 QuotesWinFormsApp.MainForm Файл существует.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-08-20 13:11:05.3990 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.

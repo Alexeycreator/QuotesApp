@@ -9,8 +9,8 @@ namespace QuotesWinFormsApp
     public struct DataCoordinates
     {
         public string name;
-        public int x;
-        public int y;
+        public int bid;
+        public int ask;
         public double mid;
     }
 }

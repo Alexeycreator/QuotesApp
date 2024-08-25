@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.btnAddDataGraph = new System.Windows.Forms.Button();
             this.chartGraph = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.radioBtn_Bid = new System.Windows.Forms.RadioButton();
@@ -51,19 +51,19 @@
             // 
             // chartGraph
             // 
-            chartArea2.Name = "ChartArea1";
-            this.chartGraph.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            this.chartGraph.Legends.Add(legend2);
+            chartArea1.Name = "ChartArea1";
+            this.chartGraph.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chartGraph.Legends.Add(legend1);
             this.chartGraph.Location = new System.Drawing.Point(12, 12);
             this.chartGraph.Name = "chartGraph";
-            series2.BorderWidth = 3;
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series2.Color = System.Drawing.Color.Red;
-            series2.Legend = "Legend1";
-            series2.Name = "Series1";
-            this.chartGraph.Series.Add(series2);
+            series1.BorderWidth = 3;
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series1.Color = System.Drawing.Color.Red;
+            series1.Legend = "Legend1";
+            series1.Name = "Name";
+            this.chartGraph.Series.Add(series1);
             this.chartGraph.Size = new System.Drawing.Size(571, 426);
             this.chartGraph.TabIndex = 1;
             this.chartGraph.Text = "chart1";
@@ -71,7 +71,7 @@
             // radioBtn_Bid
             // 
             this.radioBtn_Bid.AutoSize = true;
-            this.radioBtn_Bid.Location = new System.Drawing.Point(664, 239);
+            this.radioBtn_Bid.Location = new System.Drawing.Point(664, 284);
             this.radioBtn_Bid.Name = "radioBtn_Bid";
             this.radioBtn_Bid.Size = new System.Drawing.Size(48, 20);
             this.radioBtn_Bid.TabIndex = 2;
@@ -82,7 +82,7 @@
             // radioBtn_Ask
             // 
             this.radioBtn_Ask.AutoSize = true;
-            this.radioBtn_Ask.Location = new System.Drawing.Point(664, 283);
+            this.radioBtn_Ask.Location = new System.Drawing.Point(665, 242);
             this.radioBtn_Ask.Name = "radioBtn_Ask";
             this.radioBtn_Ask.Size = new System.Drawing.Size(51, 20);
             this.radioBtn_Ask.TabIndex = 3;

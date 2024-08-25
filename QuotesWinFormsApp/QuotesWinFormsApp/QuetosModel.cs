@@ -9,7 +9,7 @@ namespace QuotesWinFormsApp
     public class QuetosModel
     {
         public string name;
-        public string x;
-        public string y;
+        public string bid;
+        public string ask;
     }
 }
