@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{A06CBE39-F699-4DB9-8FF4-BCEADE704EC7}|QuotesWinFormsApp\\QuotesWinFormsApp.csproj|solutionrelative:quoteswinformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A06CBE39-F699-4DB9-8FF4-BCEADE704EC7}|QuotesWinFormsApp\\QuotesWinFormsApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\quotesapp\\quoteswinformsapp\\quoteswinformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A06CBE39-F699-4DB9-8FF4-BCEADE704EC7}|QuotesWinFormsApp\\QuotesWinFormsApp.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesWinFormsApp\\quoteswinformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06CBE39-F699-4DB9-8FF4-BCEADE704EC7}|QuotesWinFormsApp\\QuotesWinFormsApp.csproj|solutionrelative:quoteswinformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,8 +63,7 @@
               "RelativeToolTip": "QuotesWinFormsApp\\DataCoordinates.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T14:34:07.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T14:34:07.174Z"
             },
             {
               "$type": "Document",
@@ -99,7 +98,7 @@
               "RelativeDocumentMoniker": "QuotesWinFormsApp\\Form1.cs",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesWinFormsApp\\QuotesWinFormsApp\\Form1.cs",
               "RelativeToolTip": "QuotesWinFormsApp\\Form1.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAowLAAAAANAAAA",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAIwM0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T11:50:36.326Z",
               "EditorCaption": ""

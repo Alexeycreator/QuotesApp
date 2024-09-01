@@ -141,6 +141,23 @@ namespace QuotesWinFormsApp
             }
             return dataRow;
         }
+        //настройка Series
+        private void SetupSeries(List<string> name)
+        {
+            chartGraph.Series.Clear();
+            foreach (var item in name)
+            {
+                Series dataSeries = new Series()
+                {
+                    Name = item,
+                    ChartType = SeriesChartType.Line,
+                    Color = Color.Blue,
+                    //MarkerStyle = MarkerStyle.Circle,
+                    MarkerSize = 5,
+                };
+                chartGraph.Series.Add(dataSeries);
+            }
+        }
         //отображение данных на графике
         private void ShowDataChart(int defaultPool, List<DataCoordinates> dataCoordinates)
         {
@@ -159,35 +176,78 @@ namespace QuotesWinFormsApp
                     midChartGraph.Add(Convert.ToInt32(item.mid));
                 }
             }
+            //SetupSeries(nameChartGraph);
+            /*List<int> selectedData = null;
+            string selectedDataName = string.Empty;
+            string nameGraph = string.Empty;*/
             //проверка на кнопку
             if (radioBtn_Ask.Checked)
             {
                 logger.Info("Выбрана кнопка для отображения данных ask.");
-                ActionRadioBtnAsk();
+                /*selectedData = askChartGraph;
+                selectedDataName = "ask";
+                nameGraph = "nameChartGraph";*/
             }
             else if (radioBtn_Bid.Checked)
             {
                 logger.Info("Выбрана кнопка для отображения данных bid.");
-                ActionRadioBtnBid();
+                chartGraph.Series["Name"].Points.Clear();
+                for (int i = 0; i < defaultPool; i++)
+                {
+                    chartGraph.Series["Name"].Points.AddXY(0, bidChartGraph[i]);
+                    if (i < nameChartGraph.Count)
+                    {
+                        chartGraph.Series["Name"].Points[i].Label = nameChartGraph[i];
+                    }
+                    logger.Info($"Данные отрисованы, их значение: {bidChartGraph[i]} с именем {nameChartGraph}");
+                }
+                logger.Info("Получилось отрисовать данные!");
             }
             else if (radioBtn_Mid.Checked)
             {
                 logger.Info("Выбрана кнопка для отображения данных mid.");
-                ActionRadioBtnMid();
+            }
+            else
+            {
+                logger.Error("Вы не выбрали данные для отображения на графике!");
+                return;
             }
         }
-        private void ActionRadioBtnAsk()
+        /*private void DrawChart(List<int> data, int defaultPool, string dataName, string name)
         {
-            MessageBox.Show("1");
+            if (data == null || data.Count == 0)
+            {
+                return;
+            }
+            int pointCount = Math.Min(defaultPool, data.Count);
+            List<int> points = new List<int>();
+            for (int i = 0; i < pointCount; i++) {
+                ThreadPool.QueueUserWorkItem(state =>
+                {
+                    int value = data[i];
+                    LogPoint(value, name);
+                    lock (points) {
+                        points.Add(value);
+                    }
+                });
+            }
         }
-        private void ActionRadioBtnBid()
+        private void LogPoint(int value, string name)
         {
-            MessageBox.Show("2");
+            if (chartGraph.InvokeRequired)
+            {
+                chartGraph.Invoke((MethodInvoker)(() => AddPointToChart(value, name)));
+            }
+            else
+            {
+                AddPointToChart(value, name);
+            }
         }
-        private void ActionRadioBtnMid()
+        private void AddPointToChart(int value, string name)
         {
-            MessageBox.Show("3");
-        }
+            var series = chartGraph.Series[name];
+            series.Points.Add(value);
+        }*/
     }
 }
 //старый код
