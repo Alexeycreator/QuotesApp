@@ -1,0 +1,228 @@
+2024-09-26 10:46:53.5363 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 15.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Файл существует.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2024-09-26 10:46:53.5952 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных bid.
+2024-09-26 10:50:38.1961 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 15.
+2024-09-26 10:50:38.2569 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 15.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Файл существует.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2024-09-26 10:50:38.2620 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных bid.
+2024-09-26 11:20:03.3279 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Файл существует.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2024-09-26 11:20:03.3547 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2024-09-26 11:24:04.2984 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2024-09-26 11:24:04.3342 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Файл существует.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2024-09-26 11:24:04.3393 QuotesWinFormsApp.MainForm resList = System.Collections.Generic.List`1[System.Int32]
+2024-09-26 11:26:48.8624 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Файл существует.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2024-09-26 11:26:48.8914 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 0
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 1
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 2
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 3
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 4
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 5
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 6
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 7
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 8
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 9
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 10
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm 11
+2024-09-26 11:26:48.9034 QuotesWinFormsApp.MainForm resList = System.Collections.Generic.List`1[System.Int32]
+2024-09-26 11:28:58.4433 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2024-09-26 11:28:58.4762 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2024-09-26 11:28:58.4762 QuotesWinFormsApp.MainForm Файл существует.
+2024-09-26 11:28:58.4762 QuotesWinFormsApp.MainForm Данные получилось считать.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2024-09-26 11:28:58.4800 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.

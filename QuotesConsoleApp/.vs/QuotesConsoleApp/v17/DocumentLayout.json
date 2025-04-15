@@ -1,12 +1,93 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\quotesapp\\quotesconsoleapp\\quotesconsoleapp\\fillingquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|solutionrelative:quotesconsoleapp\\fillingquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\quotesapp\\quotesconsoleapp\\quotesconsoleapp\\quotesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|solutionrelative:quotesconsoleapp\\quotesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\quotesapp\\quotesconsoleapp\\quotesconsoleapp\\csvwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|solutionrelative:quotesconsoleapp\\csvwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\desktop\\\u0443\u0447\u0435\u0431\u0430\\github\\quotesapp\\quotesconsoleapp\\quotesconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7505BBF1-1546-413F-AEFF-BAAFFF487F8A}|QuotesConsoleApp\\QuotesConsoleApp.csproj|solutionrelative:quotesconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "QuotesConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\Program.cs",
+              "RelativeToolTip": "QuotesConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:52:53.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvWriter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\CsvWriter.cs",
+              "RelativeDocumentMoniker": "QuotesConsoleApp\\CsvWriter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\CsvWriter.cs",
+              "RelativeToolTip": "QuotesConsoleApp\\CsvWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:52:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FillingQuotes.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\FillingQuotes.cs",
+              "RelativeDocumentMoniker": "QuotesConsoleApp\\FillingQuotes.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\FillingQuotes.cs",
+              "RelativeToolTip": "QuotesConsoleApp\\FillingQuotes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:52:39.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuotesModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\QuotesModel.cs",
+              "RelativeDocumentMoniker": "QuotesConsoleApp\\QuotesModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\github\\QuotesApp\\QuotesConsoleApp\\QuotesConsoleApp\\QuotesModel.cs",
+              "RelativeToolTip": "QuotesConsoleApp\\QuotesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:52:35.562Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

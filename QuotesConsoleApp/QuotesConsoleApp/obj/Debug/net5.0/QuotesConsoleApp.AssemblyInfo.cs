@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuotesConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f16b5f5e7de2c65061a01d020b18ccfc1f49e6cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73637f8ca5e02f2b5ae38acc79591889f02b4874")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuotesConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuotesConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

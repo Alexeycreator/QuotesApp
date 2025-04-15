@@ -1,0 +1,659 @@
+2025-04-10 13:10:58.7569 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:10:58.8166 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:10:58.8234 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:10:58.9188 QuotesWinFormsApp.MainForm System.IO.IOException: Процесс не может получить доступ к файлу "C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes10.04.2025.csv", так как этот файл используется другим процессом.System.IO.IOException: Процесс не может получить доступ к файлу "C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes10.04.2025.csv", так как этот файл используется другим процессом.
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 130
+2025-04-10 13:10:59.0197 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:10:59.0215 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:11:01.6622 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:11:01.6622 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:11:01.6622 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:11:01.6963 QuotesWinFormsApp.MainForm System.IO.IOException: Процесс не может получить доступ к файлу "C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes10.04.2025.csv", так как этот файл используется другим процессом.System.IO.IOException: Процесс не может получить доступ к файлу "C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes10.04.2025.csv", так как этот файл используется другим процессом.
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 130
+2025-04-10 13:11:01.6963 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:11:01.6963 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных bid.
+2025-04-10 13:11:02.5302 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:11:02.5302 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:11:02.5302 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:11:02.5519 QuotesWinFormsApp.MainForm System.IO.IOException: Процесс не может получить доступ к файлу "C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes10.04.2025.csv", так как этот файл используется другим процессом.System.IO.IOException: Процесс не может получить доступ к файлу "C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes10.04.2025.csv", так как этот файл используется другим процессом.
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 130
+2025-04-10 13:11:02.5519 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:11:02.5519 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных mid.
+2025-04-10 13:12:01.6883 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:12:01.7522 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:12:01.7559 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:12:02.8528 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных bid.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:12:03.6563 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных mid.
+2025-04-10 13:13:06.2451 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:13:06.2951 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:13:06.2951 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:13:06.2951 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:13:06.3069 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:30:06.0326 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:30:06.0747 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:30:06.0864 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:30:06.0864 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:32:27.4470 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:32:27.4861 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:32:27.4971 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:32:27.5076 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:32:27.6699 QuotesWinFormsApp.MainForm System.ArgumentOutOfRangeException: Для этой точки данных можно указать только 1 значений Y.
+Имя параметра: yValueSystem.ArgumentOutOfRangeException: Для этой точки данных можно указать только 1 значений Y.
+Имя параметра: yValue
+   в System.Windows.Forms.DataVisualization.Charting.DataPoint.SetValueY(Object[] yValue)
+   в System.Windows.Forms.DataVisualization.Charting.DataPoint.SetValueXY(Object xValue, Object[] yValue)
+   в System.Windows.Forms.DataVisualization.Charting.DataPointCollection.AddXY(Object xValue, Object[] yValue)
+   в QuotesWinFormsApp.MainForm.ShowDataChart(Int32 defaultPool, List`1 dataCoordinates) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 203
+   в QuotesWinFormsApp.MainForm.btnAddDataGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 49
+2025-04-10 13:32:50.4855 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:32:50.5370 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:32:50.7387 QuotesWinFormsApp.MainForm System.ArgumentException: Точки данных ряда не поддерживают значения типа System.Linq.GroupedEnumerable`3[System.Int32,System.Int32,System.Int32], допускается использование значений только следующих типов: Double, Decimal, Single, int, long, uint, ulong, String, DateTime, short, ushort.System.ArgumentException: Точки данных ряда не поддерживают значения типа System.Linq.GroupedEnumerable`3[System.Int32,System.Int32,System.Int32], допускается использование значений только следующих типов: Double, Decimal, Single, int, long, uint, ulong, String, DateTime, short, ushort.
+   в System.Windows.Forms.DataVisualization.Charting.Series.CheckSupportedTypes(Type type)
+   в System.Windows.Forms.DataVisualization.Charting.DataPoint.SetValueXY(Object xValue, Object[] yValue)
+   в System.Windows.Forms.DataVisualization.Charting.DataPointCollection.AddXY(Object xValue, Object[] yValue)
+   в QuotesWinFormsApp.MainForm.ShowDataChart(Int32 defaultPool, List`1 dataCoordinates) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 203
+   в QuotesWinFormsApp.MainForm.btnAddDataGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 49
+2025-04-10 13:33:23.6740 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:33:23.7210 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:33:23.7256 QuotesWinFormsApp.MainForm Зашли в цикл
+2025-04-10 13:33:23.9065 QuotesWinFormsApp.MainForm System.ArgumentException: Точки данных ряда не поддерживают значения типа System.Linq.GroupedEnumerable`3[System.Int32,System.Int32,System.Int32], допускается использование значений только следующих типов: Double, Decimal, Single, int, long, uint, ulong, String, DateTime, short, ushort.System.ArgumentException: Точки данных ряда не поддерживают значения типа System.Linq.GroupedEnumerable`3[System.Int32,System.Int32,System.Int32], допускается использование значений только следующих типов: Double, Decimal, Single, int, long, uint, ulong, String, DateTime, short, ushort.
+   в System.Windows.Forms.DataVisualization.Charting.Series.CheckSupportedTypes(Type type)
+   в System.Windows.Forms.DataVisualization.Charting.DataPoint.SetValueXY(Object xValue, Object[] yValue)
+   в System.Windows.Forms.DataVisualization.Charting.DataPointCollection.AddXY(Object xValue, Object[] yValue)
+   в QuotesWinFormsApp.MainForm.ShowDataChart(Int32 defaultPool, List`1 dataCoordinates) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 204
+   в QuotesWinFormsApp.MainForm.btnAddDataGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 49
+2025-04-10 13:38:16.7319 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:38:16.7655 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:38:16.7814 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:38:16.7873 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:38:16.8094 QuotesWinFormsApp.MainForm Зашли в цикл
+2025-04-10 13:39:22.6740 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:39:22.7179 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:39:22.7179 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:39:22.7179 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:39:22.7237 QuotesWinFormsApp.MainForm Зашли в цикл
+2025-04-10 13:40:32.3281 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:40:32.3723 QuotesWinFormsApp.MainForm Зашли в цикл
+2025-04-10 13:40:32.5004 QuotesWinFormsApp.MainForm Данные графика по X: 2, данные по Y: 2
+2025-04-10 13:40:32.5004 QuotesWinFormsApp.MainForm Значение =
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:40:39.9940 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:40:40.8629 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:40:40.8711 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:40:48.0353 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:40:48.0853 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:40:48.1025 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:40:48.1025 QuotesWinFormsApp.MainForm Зашли в цикл
+2025-04-10 13:40:48.2196 QuotesWinFormsApp.MainForm Данные графика по X: 2, данные по Y: 2
+2025-04-10 13:40:48.2196 QuotesWinFormsApp.MainForm Значение =
+2025-04-10 13:46:09.6859 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:46:09.7174 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:46:09.7174 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:46:09.7174 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:46:09.7333 QuotesWinFormsApp.MainForm Зашли в цикл
+2025-04-10 13:46:09.9002 QuotesWinFormsApp.MainForm System.ArgumentException: Точки данных ряда не поддерживают значения типа System.Linq.Lookup`2+Grouping[System.Int32,System.Int32], допускается использование значений только следующих типов: Double, Decimal, Single, int, long, uint, ulong, String, DateTime, short, ushort.System.ArgumentException: Точки данных ряда не поддерживают значения типа System.Linq.Lookup`2+Grouping[System.Int32,System.Int32], допускается использование значений только следующих типов: Double, Decimal, Single, int, long, uint, ulong, String, DateTime, short, ushort.
+   в System.Windows.Forms.DataVisualization.Charting.Series.CheckSupportedTypes(Type type)
+   в System.Windows.Forms.DataVisualization.Charting.DataPoint.SetValueXY(Object xValue, Object[] yValue)
+   в System.Windows.Forms.DataVisualization.Charting.DataPointCollection.AddXY(Object xValue, Object[] yValue)
+   в QuotesWinFormsApp.MainForm.ShowDataChart(Int32 defaultPool, List`1 dataCoordinates) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 206
+   в QuotesWinFormsApp.MainForm.btnAddDataGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 49
+2025-04-10 13:47:16.4633 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 12.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 12.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные получилось считать.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30.
+2025-04-10 13:47:16.5067 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-10 13:47:16.5206 QuotesWinFormsApp.MainForm Выбрана кнопка для отображения данных ask.
+2025-04-10 13:47:16.5206 QuotesWinFormsApp.MainForm Зашли в цикл
+2025-04-10 13:47:16.7257 QuotesWinFormsApp.MainForm System.InvalidCastException: Не удалось привести тип объекта "Grouping[System.Int32,System.Int32]" к типу "System.IConvertible".System.InvalidCastException: Не удалось привести тип объекта "Grouping[System.Int32,System.Int32]" к типу "System.IConvertible".
+   в System.Convert.ToDouble(Object value)
+   в QuotesWinFormsApp.MainForm.ShowDataChart(Int32 defaultPool, List`1 dataCoordinates) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 206
+   в QuotesWinFormsApp.MainForm.btnAddDataGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 49
