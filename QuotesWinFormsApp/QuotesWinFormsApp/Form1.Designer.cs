@@ -28,14 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-      System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-      System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-      System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+      System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+      System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+      System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
       this.btnAddDataGraph = new System.Windows.Forms.Button();
       this.chartGraph = new System.Windows.Forms.DataVisualization.Charting.Chart();
       this.radioBtn_Bid = new System.Windows.Forms.RadioButton();
       this.radioBtn_Ask = new System.Windows.Forms.RadioButton();
       this.radioBtn_Mid = new System.Windows.Forms.RadioButton();
+      this.seriesCheckedListBox = new System.Windows.Forms.CheckedListBox();
       ((System.ComponentModel.ISupportInitialize)(this.chartGraph)).BeginInit();
       this.SuspendLayout();
       // 
@@ -51,19 +52,19 @@
       // 
       // chartGraph
       // 
-      chartArea2.Name = "ChartArea1";
-      this.chartGraph.ChartAreas.Add(chartArea2);
-      legend2.Name = "Legend1";
-      this.chartGraph.Legends.Add(legend2);
+      chartArea1.Name = "ChartArea1";
+      this.chartGraph.ChartAreas.Add(chartArea1);
+      legend1.Name = "Legend1";
+      this.chartGraph.Legends.Add(legend1);
       this.chartGraph.Location = new System.Drawing.Point(12, 12);
       this.chartGraph.Name = "chartGraph";
-      series2.BorderWidth = 3;
-      series2.ChartArea = "ChartArea1";
-      series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-      series2.Color = System.Drawing.Color.Red;
-      series2.Legend = "Legend1";
-      series2.Name = "Name";
-      this.chartGraph.Series.Add(series2);
+      series1.BorderWidth = 3;
+      series1.ChartArea = "ChartArea1";
+      series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+      series1.Color = System.Drawing.Color.Red;
+      series1.Legend = "Legend1";
+      series1.Name = "Name";
+      this.chartGraph.Series.Add(series1);
       this.chartGraph.Size = new System.Drawing.Size(932, 604);
       this.chartGraph.TabIndex = 1;
       this.chartGraph.Text = "chart1";
@@ -78,6 +79,7 @@
       this.radioBtn_Bid.TabStop = true;
       this.radioBtn_Bid.Text = "Bid";
       this.radioBtn_Bid.UseVisualStyleBackColor = true;
+      this.radioBtn_Bid.CheckedChanged += new System.EventHandler(this.radioBtn_Bid_CheckedChanged);
       // 
       // radioBtn_Ask
       // 
@@ -101,11 +103,20 @@
       this.radioBtn_Mid.Text = "Mid";
       this.radioBtn_Mid.UseVisualStyleBackColor = true;
       // 
+      // seriesCheckedListBox
+      // 
+      this.seriesCheckedListBox.FormattingEnabled = true;
+      this.seriesCheckedListBox.Location = new System.Drawing.Point(950, 12);
+      this.seriesCheckedListBox.Name = "seriesCheckedListBox";
+      this.seriesCheckedListBox.Size = new System.Drawing.Size(199, 378);
+      this.seriesCheckedListBox.TabIndex = 5;
+      // 
       // MainForm
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(1161, 628);
+      this.Controls.Add(this.seriesCheckedListBox);
       this.Controls.Add(this.radioBtn_Mid);
       this.Controls.Add(this.radioBtn_Ask);
       this.Controls.Add(this.radioBtn_Bid);
@@ -127,6 +138,7 @@
         private System.Windows.Forms.RadioButton radioBtn_Bid;
         private System.Windows.Forms.RadioButton radioBtn_Ask;
         private System.Windows.Forms.RadioButton radioBtn_Mid;
-    }
+    private System.Windows.Forms.CheckedListBox seriesCheckedListBox;
+  }
 }
 

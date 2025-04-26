@@ -1,0 +1,1532 @@
+2025-04-26 12:46:27.5735 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:46:27.6657 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:46:27.6657 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:46:27.7767 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:46:27.8705 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:46:27.8878 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:46:27.8878 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:46:30.0206 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:46:30.0206 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:46:30.0206 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:46:30.0655 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:46:30.0655 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:46:30.0655 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:46:30.0655 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:46:30.1681 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:46:30.1681 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:46:30.1681 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:46:30.1884 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:46:30.1884 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:46:30.1884 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:46:30.1884 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:46:30.3273 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:46:30.3273 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:46:30.3273 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:46:30.3485 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:46:30.3485 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:46:30.3485 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:46:30.3485 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:46:30.5551 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:46:30.5551 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:46:30.5551 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:46:30.5800 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:46:30.5800 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:46:30.5800 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:46:30.5800 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:47:42.5813 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:47:42.6233 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:47:42.6233 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:47:42.6963 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:47:42.7508 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:47:42.7885 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:47:42.7985 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:49:23.8210 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:49:23.8624 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:49:23.8707 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:49:24.1778 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:49:24.2423 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:49:24.2584 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:49:24.2644 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:51:17.3289 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 12:51:17.3884 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 12:51:17.3884 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 12:51:17.3884 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 12:51:17.3884 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 12:51:17.3884 QuotesWinFormsApp.MainForm Файл существует.
+2025-04-26 12:51:17.4627 QuotesWinFormsApp.MainForm System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.System.IO.FileNotFoundException: Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv' не найден.
+Имя файла: 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025.csv'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   в System.IO.StreamReader..ctor(String path, Encoding encoding)
+   в System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   в System.IO.File.ReadAllLines(String path)
+   в QuotesWinFormsApp.MainForm.DataRecording() в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 112
+2025-04-26 12:51:17.4948 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 12:51:17.5564 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 12:51:17.5564 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 12:51:56.1037 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 12:51:56.1523 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 12:51:56.1523 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 12:52:15.0964 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 12:52:15.1582 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 12:52:15.1582 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:08:03.6446 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:08:03.6966 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:08:03.6966 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Файл Quotes26.04.2025 существует
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Первая строка: Name;Bid;Ask
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Первая строка: Name;Bid;Ask
+2025-04-26 13:08:06.7679 QuotesWinFormsApp.MainForm Первая строка: Name;Bid;Ask
+2025-04-26 13:08:06.7757 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 13:08:06.8012 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 13:08:06.8075 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 13:08:57.3499 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:08:57.3999 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:08:57.4011 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Файл Quotes26.04.2025 существует
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Первая строка со значениями: MSFT_1;67;94
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Первая строка со значениями: MSFT_1;55;80
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Первая строка со значениями: MSFT_1;52;47
+2025-04-26 13:09:01.0576 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 13:09:01.0831 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 13:09:01.0831 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 13:11:09.4470 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:11:09.4989 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:11:09.4989 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Первая строка со значениями: MSFT_1;67;94
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Первая строка со значениями: MSFT_1;55;80
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Первая строка со значениями: MSFT_1;52;47
+2025-04-26 13:11:12.0327 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 13:11:12.0493 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 13:11:12.0493 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 13:12:29.3438 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:12:29.3850 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:12:29.3850 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:12:32.1647 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 13:12:32.1647 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm строка со значениями: System.String[]
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm строка со значениями: System.String[]
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm строка со значениями: System.String[]
+2025-04-26 13:12:32.1672 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 13:12:32.1834 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 13:12:32.1834 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 13:15:49.0253 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:15:49.0844 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:15:49.0844 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:15:51.4747 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 13:15:51.4747 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 13:15:51.4747 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:15:51.4747 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:15:51.4747 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:15:51.4747 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 13:15:51.4747 QuotesWinFormsApp.MainForm строка со значениями: MSFT_1;67;94
+2025-04-26 13:15:51.5542 QuotesWinFormsApp.MainForm Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\System.Collections.Generic.List`1[System.String]' не найден.
+2025-04-26 13:15:51.5608 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 13:15:51.5608 QuotesWinFormsApp.MainForm Не выбраны данные для отображения!
+2025-04-26 13:44:45.1243 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:44:45.1777 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:44:45.1777 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:44:49.9403 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 13:44:49.9403 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 13:44:49.9403 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:44:49.9403 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:44:49.9403 QuotesWinFormsApp.MainForm Прочитано 31 строк из файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:44:49.9403 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 13:44:49.9403 QuotesWinFormsApp.MainForm строка со значениями: MSFT_1;67;94
+2025-04-26 13:44:50.0320 QuotesWinFormsApp.MainForm Путь содержит недопустимые знаки.
+2025-04-26 13:44:50.0320 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 13:44:50.0320 QuotesWinFormsApp.MainForm Не выбраны данные для отображения!
+2025-04-26 13:56:28.7813 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:56:28.8364 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:56:28.8384 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:56:48.3002 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 13:56:48.3002 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 13:56:48.3002 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 13:56:48.3002 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 13:56:48.3002 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-38.csv
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 31 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 32 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 33 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 34 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 35 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 36 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 37 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 38 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 39 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 40 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 41 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 42 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 43 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 44 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 45 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 46 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 47 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 48 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 49 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 50 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 51 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 52 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 53 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 54 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 55 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 56 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 57 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 58 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 59 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 60 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-33-08.csv
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 61 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 62 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 63 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 64 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 65 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 66 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 67 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 68 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 69 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 70 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 71 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 72 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 73 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 74 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 75 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 76 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 77 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 78 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 79 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 80 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 81 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 82 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 83 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 84 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 85 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 86 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 87 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 88 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 89 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Данные добавлены 90 из 30
+2025-04-26 13:56:48.3063 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 13:56:48.3922 QuotesWinFormsApp.MainForm System.IndexOutOfRangeException: Индекс находился вне границ массива.System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в QuotesWinFormsApp.MainForm.SetupSeries(List`1 names) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 210
+   в QuotesWinFormsApp.MainForm.ShowDataChart(Int32 defaultPool, List`1 dataCoordinates) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 248
+   в QuotesWinFormsApp.MainForm.btnAddDataGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 85
+2025-04-26 14:00:49.0033 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:00:49.0512 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:00:49.0512 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:00:50.5400 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:00:50.5400 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 31 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 32 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 33 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 34 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 35 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 36 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 37 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 38 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 39 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 40 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 41 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 42 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 43 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 44 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 45 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 46 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 47 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 48 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 49 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 50 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 51 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 52 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 53 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 54 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 55 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 56 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 57 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 58 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 59 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 60 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 61 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 62 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 63 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 64 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 65 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 66 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 67 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 68 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 69 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 70 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 71 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 72 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 73 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 74 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 75 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 76 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 77 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 78 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 79 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 80 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 81 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 82 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 83 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 84 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 85 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 86 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 87 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 88 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 89 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Данные добавлены 90 из 30
+2025-04-26 14:00:50.5432 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:00:50.6282 QuotesWinFormsApp.MainForm System.IndexOutOfRangeException: Индекс находился вне границ массива.System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в QuotesWinFormsApp.MainForm.SetupSeries(List`1 names) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 157
+   в QuotesWinFormsApp.MainForm.ShowDataChart(Int32 defaultPool, List`1 dataCoordinates) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 195
+   в QuotesWinFormsApp.MainForm.btnAddDataGraph_Click(Object sender, EventArgs e) в C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\Form1.cs:строка 85
+2025-04-26 14:01:37.0161 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:01:37.0671 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:01:37.0671 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:01:39.2647 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:01:39.2775 QuotesWinFormsApp.MainForm Не выбраны данные для отображения!
+2025-04-26 14:09:21.2701 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:09:21.3606 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:09:21.3606 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:09:23.6841 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:09:23.7132 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:09:23.7572 QuotesWinFormsApp.MainForm Добавлена точка: X=1, Y=94, Label=MSFT_1
+2025-04-26 14:09:23.9487 QuotesWinFormsApp.MainForm Добавлена точка: X=2, Y=18, Label=MSFT_2
+2025-04-26 14:09:23.9837 QuotesWinFormsApp.MainForm Добавлена точка: X=3, Y=35, Label=MSFT_3
+2025-04-26 14:09:23.9971 QuotesWinFormsApp.MainForm Добавлена точка: X=4, Y=9, Label=MSFT_4
+2025-04-26 14:09:24.0173 QuotesWinFormsApp.MainForm Добавлена точка: X=5, Y=10, Label=MSFT_5
+2025-04-26 14:09:24.0338 QuotesWinFormsApp.MainForm Добавлена точка: X=6, Y=3, Label=MSFT_6
+2025-04-26 14:09:24.0338 QuotesWinFormsApp.MainForm Добавлена точка: X=7, Y=38, Label=MSFT_7
+2025-04-26 14:09:24.0526 QuotesWinFormsApp.MainForm Добавлена точка: X=8, Y=82, Label=MSFT_8
+2025-04-26 14:09:24.0727 QuotesWinFormsApp.MainForm Добавлена точка: X=9, Y=58, Label=MSFT_9
+2025-04-26 14:09:24.0910 QuotesWinFormsApp.MainForm Добавлена точка: X=10, Y=83, Label=MSFT_10
+2025-04-26 14:09:29.1295 QuotesWinFormsApp.MainForm Добавлена точка: X=11, Y=51, Label=MSFT_11
+2025-04-26 14:09:29.1475 QuotesWinFormsApp.MainForm Добавлена точка: X=12, Y=16, Label=APPL_12
+2025-04-26 14:09:29.1644 QuotesWinFormsApp.MainForm Добавлена точка: X=13, Y=99, Label=APPL_13
+2025-04-26 14:09:29.1930 QuotesWinFormsApp.MainForm Добавлена точка: X=14, Y=61, Label=APPL_14
+2025-04-26 14:09:29.2357 QuotesWinFormsApp.MainForm Добавлена точка: X=15, Y=80, Label=APPL_15
+2025-04-26 14:09:29.2564 QuotesWinFormsApp.MainForm Добавлена точка: X=16, Y=55, Label=APPL_16
+2025-04-26 14:09:29.2665 QuotesWinFormsApp.MainForm Добавлена точка: X=17, Y=73, Label=APPL_17
+2025-04-26 14:09:29.2802 QuotesWinFormsApp.MainForm Добавлена точка: X=18, Y=42, Label=APPL_18
+2025-04-26 14:09:29.3185 QuotesWinFormsApp.MainForm Добавлена точка: X=19, Y=67, Label=APPL_19
+2025-04-26 14:09:29.3433 QuotesWinFormsApp.MainForm Добавлена точка: X=20, Y=32, Label=APPL_20
+2025-04-26 14:09:47.8214 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:09:47.8792 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:09:47.8792 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:09:50.7330 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:09:50.7612 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:09:50.8043 QuotesWinFormsApp.MainForm Добавлена точка: X=1, Y=94, Label=MSFT_1
+2025-04-26 14:09:50.8043 QuotesWinFormsApp.MainForm Добавлена точка: X=2, Y=18, Label=MSFT_2
+2025-04-26 14:09:51.0511 QuotesWinFormsApp.MainForm Добавлена точка: X=3, Y=35, Label=MSFT_3
+2025-04-26 14:09:51.0655 QuotesWinFormsApp.MainForm Добавлена точка: X=4, Y=9, Label=MSFT_4
+2025-04-26 14:09:51.0791 QuotesWinFormsApp.MainForm Добавлена точка: X=5, Y=10, Label=MSFT_5
+2025-04-26 14:09:51.0909 QuotesWinFormsApp.MainForm Добавлена точка: X=6, Y=3, Label=MSFT_6
+2025-04-26 14:09:51.1114 QuotesWinFormsApp.MainForm Добавлена точка: X=7, Y=38, Label=MSFT_7
+2025-04-26 14:09:51.1114 QuotesWinFormsApp.MainForm Добавлена точка: X=8, Y=82, Label=MSFT_8
+2025-04-26 14:09:51.1359 QuotesWinFormsApp.MainForm Добавлена точка: X=9, Y=58, Label=MSFT_9
+2025-04-26 14:09:51.1558 QuotesWinFormsApp.MainForm Добавлена точка: X=10, Y=83, Label=MSFT_10
+2025-04-26 14:09:51.1790 QuotesWinFormsApp.MainForm Добавлена точка: X=11, Y=51, Label=MSFT_11
+2025-04-26 14:09:51.1945 QuotesWinFormsApp.MainForm Добавлена точка: X=12, Y=16, Label=APPL_12
+2025-04-26 14:09:51.2092 QuotesWinFormsApp.MainForm Добавлена точка: X=13, Y=99, Label=APPL_13
+2025-04-26 14:09:51.2268 QuotesWinFormsApp.MainForm Добавлена точка: X=14, Y=61, Label=APPL_14
+2025-04-26 14:09:51.2455 QuotesWinFormsApp.MainForm Добавлена точка: X=15, Y=80, Label=APPL_15
+2025-04-26 14:09:51.2455 QuotesWinFormsApp.MainForm Добавлена точка: X=16, Y=55, Label=APPL_16
+2025-04-26 14:09:51.2768 QuotesWinFormsApp.MainForm Добавлена точка: X=17, Y=73, Label=APPL_17
+2025-04-26 14:09:51.2949 QuotesWinFormsApp.MainForm Добавлена точка: X=18, Y=42, Label=APPL_18
+2025-04-26 14:09:51.3206 QuotesWinFormsApp.MainForm Добавлена точка: X=19, Y=67, Label=APPL_19
+2025-04-26 14:09:51.3532 QuotesWinFormsApp.MainForm Добавлена точка: X=20, Y=32, Label=APPL_20
+2025-04-26 14:09:51.3532 QuotesWinFormsApp.MainForm Добавлена точка: X=21, Y=22, Label=APPL_21
+2025-04-26 14:09:51.3934 QuotesWinFormsApp.MainForm Добавлена точка: X=22, Y=53, Label=VIX_22
+2025-04-26 14:09:51.4318 QuotesWinFormsApp.MainForm Добавлена точка: X=23, Y=81, Label=VIX_23
+2025-04-26 14:09:51.4318 QuotesWinFormsApp.MainForm Добавлена точка: X=24, Y=30, Label=VIX_24
+2025-04-26 14:09:51.4748 QuotesWinFormsApp.MainForm Добавлена точка: X=25, Y=93, Label=VIX_25
+2025-04-26 14:09:51.4930 QuotesWinFormsApp.MainForm Добавлена точка: X=26, Y=10, Label=VIX_26
+2025-04-26 14:09:51.5139 QuotesWinFormsApp.MainForm Добавлена точка: X=27, Y=40, Label=VIX_27
+2025-04-26 14:09:51.5381 QuotesWinFormsApp.MainForm Добавлена точка: X=28, Y=37, Label=VIX_28
+2025-04-26 14:09:51.5560 QuotesWinFormsApp.MainForm Добавлена точка: X=29, Y=84, Label=VIX_29
+2025-04-26 14:09:51.5560 QuotesWinFormsApp.MainForm Добавлена точка: X=30, Y=30, Label=VIX_30
+2025-04-26 14:09:51.5919 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 14:17:33.4106 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:17:33.4672 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:17:33.4672 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:17:36.6733 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:17:36.7080 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:17:36.7285 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:17:36.7732 QuotesWinFormsApp.MainForm Добавлена точка: X=1, Y=94, Label=MSFT_1
+2025-04-26 14:17:36.9575 QuotesWinFormsApp.MainForm Добавлена точка: X=2, Y=18, Label=MSFT_2
+2025-04-26 14:17:36.9808 QuotesWinFormsApp.MainForm Добавлена точка: X=3, Y=35, Label=MSFT_3
+2025-04-26 14:17:36.9961 QuotesWinFormsApp.MainForm Добавлена точка: X=4, Y=9, Label=MSFT_4
+2025-04-26 14:17:37.0100 QuotesWinFormsApp.MainForm Добавлена точка: X=5, Y=10, Label=MSFT_5
+2025-04-26 14:17:37.0100 QuotesWinFormsApp.MainForm Добавлена точка: X=6, Y=3, Label=MSFT_6
+2025-04-26 14:17:37.0397 QuotesWinFormsApp.MainForm Добавлена точка: X=7, Y=38, Label=MSFT_7
+2025-04-26 14:17:37.0556 QuotesWinFormsApp.MainForm Добавлена точка: X=8, Y=82, Label=MSFT_8
+2025-04-26 14:17:37.0694 QuotesWinFormsApp.MainForm Добавлена точка: X=9, Y=58, Label=MSFT_9
+2025-04-26 14:17:37.0881 QuotesWinFormsApp.MainForm Добавлена точка: X=10, Y=83, Label=MSFT_10
+2025-04-26 14:17:37.1053 QuotesWinFormsApp.MainForm Добавлена точка: X=11, Y=51, Label=MSFT_11
+2025-04-26 14:17:37.1240 QuotesWinFormsApp.MainForm Добавлена точка: X=12, Y=16, Label=APPL_12
+2025-04-26 14:17:37.1431 QuotesWinFormsApp.MainForm Добавлена точка: X=13, Y=99, Label=APPL_13
+2025-04-26 14:17:37.1653 QuotesWinFormsApp.MainForm Добавлена точка: X=14, Y=61, Label=APPL_14
+2025-04-26 14:17:37.1884 QuotesWinFormsApp.MainForm Добавлена точка: X=15, Y=80, Label=APPL_15
+2025-04-26 14:17:37.2075 QuotesWinFormsApp.MainForm Добавлена точка: X=16, Y=55, Label=APPL_16
+2025-04-26 14:17:37.2173 QuotesWinFormsApp.MainForm Добавлена точка: X=17, Y=73, Label=APPL_17
+2025-04-26 14:17:37.2477 QuotesWinFormsApp.MainForm Добавлена точка: X=18, Y=42, Label=APPL_18
+2025-04-26 14:17:37.2636 QuotesWinFormsApp.MainForm Добавлена точка: X=19, Y=67, Label=APPL_19
+2025-04-26 14:17:37.2955 QuotesWinFormsApp.MainForm Добавлена точка: X=20, Y=32, Label=APPL_20
+2025-04-26 14:17:37.3113 QuotesWinFormsApp.MainForm Добавлена точка: X=21, Y=22, Label=APPL_21
+2025-04-26 14:17:37.3113 QuotesWinFormsApp.MainForm Добавлена точка: X=22, Y=53, Label=VIX_22
+2025-04-26 14:17:37.3525 QuotesWinFormsApp.MainForm Добавлена точка: X=23, Y=81, Label=VIX_23
+2025-04-26 14:17:37.3551 QuotesWinFormsApp.MainForm Добавлена точка: X=24, Y=30, Label=VIX_24
+2025-04-26 14:17:37.3769 QuotesWinFormsApp.MainForm Добавлена точка: X=25, Y=93, Label=VIX_25
+2025-04-26 14:17:37.3769 QuotesWinFormsApp.MainForm Добавлена точка: X=26, Y=10, Label=VIX_26
+2025-04-26 14:17:37.3769 QuotesWinFormsApp.MainForm Добавлена точка: X=27, Y=40, Label=VIX_27
+2025-04-26 14:17:37.4007 QuotesWinFormsApp.MainForm Добавлена точка: X=28, Y=37, Label=VIX_28
+2025-04-26 14:17:37.4007 QuotesWinFormsApp.MainForm Добавлена точка: X=29, Y=84, Label=VIX_29
+2025-04-26 14:17:37.4282 QuotesWinFormsApp.MainForm Добавлена точка: X=30, Y=30, Label=VIX_30
+2025-04-26 14:17:37.4500 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 14:18:53.2875 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:18:53.3422 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:18:53.3422 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:18:56.5431 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:18:56.5714 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:18:56.5920 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:18:56.6221 QuotesWinFormsApp.MainForm Добавлена точка: X=1, Y=94, Label=MSFT_1
+2025-04-26 14:18:56.8057 QuotesWinFormsApp.MainForm Добавлена точка: X=2, Y=18, Label=MSFT_2
+2025-04-26 14:18:56.8178 QuotesWinFormsApp.MainForm Добавлена точка: X=3, Y=35, Label=MSFT_3
+2025-04-26 14:18:56.8303 QuotesWinFormsApp.MainForm Добавлена точка: X=4, Y=9, Label=MSFT_4
+2025-04-26 14:18:56.8537 QuotesWinFormsApp.MainForm Добавлена точка: X=5, Y=10, Label=MSFT_5
+2025-04-26 14:18:56.8699 QuotesWinFormsApp.MainForm Добавлена точка: X=6, Y=3, Label=MSFT_6
+2025-04-26 14:18:56.8906 QuotesWinFormsApp.MainForm Добавлена точка: X=7, Y=38, Label=MSFT_7
+2025-04-26 14:18:56.9039 QuotesWinFormsApp.MainForm Добавлена точка: X=8, Y=82, Label=MSFT_8
+2025-04-26 14:18:56.9234 QuotesWinFormsApp.MainForm Добавлена точка: X=9, Y=58, Label=MSFT_9
+2025-04-26 14:18:56.9340 QuotesWinFormsApp.MainForm Добавлена точка: X=10, Y=83, Label=MSFT_10
+2025-04-26 14:18:56.9531 QuotesWinFormsApp.MainForm Добавлена точка: X=11, Y=51, Label=MSFT_11
+2025-04-26 14:18:56.9773 QuotesWinFormsApp.MainForm Добавлена точка: X=12, Y=16, Label=APPL_12
+2025-04-26 14:18:56.9986 QuotesWinFormsApp.MainForm Добавлена точка: X=13, Y=99, Label=APPL_13
+2025-04-26 14:18:57.0224 QuotesWinFormsApp.MainForm Добавлена точка: X=14, Y=61, Label=APPL_14
+2025-04-26 14:18:57.0403 QuotesWinFormsApp.MainForm Добавлена точка: X=15, Y=80, Label=APPL_15
+2025-04-26 14:18:57.0572 QuotesWinFormsApp.MainForm Добавлена точка: X=16, Y=55, Label=APPL_16
+2025-04-26 14:18:57.0747 QuotesWinFormsApp.MainForm Добавлена точка: X=17, Y=73, Label=APPL_17
+2025-04-26 14:18:57.1038 QuotesWinFormsApp.MainForm Добавлена точка: X=18, Y=42, Label=APPL_18
+2025-04-26 14:18:57.1202 QuotesWinFormsApp.MainForm Добавлена точка: X=19, Y=67, Label=APPL_19
+2025-04-26 14:18:57.1529 QuotesWinFormsApp.MainForm Добавлена точка: X=20, Y=32, Label=APPL_20
+2025-04-26 14:18:57.1813 QuotesWinFormsApp.MainForm Добавлена точка: X=21, Y=22, Label=APPL_21
+2025-04-26 14:18:57.2029 QuotesWinFormsApp.MainForm Добавлена точка: X=22, Y=53, Label=VIX_22
+2025-04-26 14:18:57.2290 QuotesWinFormsApp.MainForm Добавлена точка: X=23, Y=81, Label=VIX_23
+2025-04-26 14:18:57.2500 QuotesWinFormsApp.MainForm Добавлена точка: X=24, Y=30, Label=VIX_24
+2025-04-26 14:18:57.2720 QuotesWinFormsApp.MainForm Добавлена точка: X=25, Y=93, Label=VIX_25
+2025-04-26 14:18:57.2836 QuotesWinFormsApp.MainForm Добавлена точка: X=26, Y=10, Label=VIX_26
+2025-04-26 14:18:57.3052 QuotesWinFormsApp.MainForm Добавлена точка: X=27, Y=40, Label=VIX_27
+2025-04-26 14:18:57.3320 QuotesWinFormsApp.MainForm Добавлена точка: X=28, Y=37, Label=VIX_28
+2025-04-26 14:18:57.3539 QuotesWinFormsApp.MainForm Добавлена точка: X=29, Y=84, Label=VIX_29
+2025-04-26 14:18:57.3759 QuotesWinFormsApp.MainForm Добавлена точка: X=30, Y=30, Label=VIX_30
+2025-04-26 14:18:57.4014 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 14:26:52.8408 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:26:52.9029 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:26:52.9029 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:26:55.5235 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:26:55.5235 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:26:55.5290 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:26:55.5549 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:26:55.6640 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:26:57.8286 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 14:26:57.8286 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:27:47.3397 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:27:47.3905 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:27:47.3905 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:27:50.2136 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:27:50.2136 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:27:50.2136 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:27:50.2136 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:27:50.2136 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:27:50.2445 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 31 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 32 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 33 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 34 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 35 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 36 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 37 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 38 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 39 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 40 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 41 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 42 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 43 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 44 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 45 из 30
+2025-04-26 14:27:50.2625 QuotesWinFormsApp.MainForm Данные добавлены 46 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 47 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 48 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 49 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 50 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 51 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 52 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 53 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 54 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 55 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 56 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 57 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 58 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 59 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 60 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 61 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 62 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 63 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 64 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 65 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 66 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 67 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 68 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 69 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 70 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 71 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 72 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 73 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 74 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 75 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 76 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 77 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 78 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 79 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 80 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 81 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 82 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 83 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 84 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 85 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 86 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 87 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 88 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 89 из 30
+2025-04-26 14:27:50.2755 QuotesWinFormsApp.MainForm Данные добавлены 90 из 30
+2025-04-26 14:27:50.2928 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:27:52.4933 QuotesWinFormsApp.MainForm Отрисовка завершена.
+2025-04-26 14:27:52.4933 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:34:40.0147 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:34:40.0807 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:34:40.0807 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:34:42.9288 QuotesWinFormsApp.MainForm Выход из заполнения, данные файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv считаны полностью
+2025-04-26 14:34:42.9522 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:34:42.9689 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:34:43.0386 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:34:44.0127 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:34:44.0127 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:34:44.0127 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:34:44.0127 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:38:19.9914 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:38:20.0365 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:38:20.0365 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:38:22.0111 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:38:22.0111 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:38:22.0111 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:38:22.1178 QuotesWinFormsApp.MainForm Файл 'C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesWinFormsApp\QuotesWinFormsApp\bin\Debug\C' не найден.
+2025-04-26 14:50:47.7008 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:50:47.7688 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:50:47.7688 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:50:54.6442 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv. Данные считаны полностью
+2025-04-26 14:50:54.6513 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:50:54.6814 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 31 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 32 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 33 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 34 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 35 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 36 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 37 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 38 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 39 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 40 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 41 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 42 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 43 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 44 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 45 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 46 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 47 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 48 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 49 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 50 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 51 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 52 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 53 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 54 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 55 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 56 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 57 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 58 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 59 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Данные добавлены 60 из 30
+2025-04-26 14:50:59.6895 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv. Данные считаны полностью
+2025-04-26 14:50:59.6992 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:50:59.6992 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 61 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 62 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 63 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 64 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 65 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 66 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 67 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 68 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 69 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 70 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 71 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 72 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 73 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 74 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 75 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 76 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 77 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 78 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 79 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 80 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 81 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 82 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 83 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 84 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 85 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 86 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 87 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 88 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 89 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Данные добавлены 90 из 30
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv. Данные считаны полностью
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего считано данных 90
+2025-04-26 14:51:04.7100 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:51:04.7287 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:51:04.7287 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:51:04.7287 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:51:13.7603 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:51:13.7603 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:51:13.7603 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:51:13.7603 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:51:13.9698 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:51:13.9698 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:51:13.9698 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:51:13.9698 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:51:14.1922 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:51:14.1922 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:51:14.1922 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:51:14.1922 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:52:15.4858 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:52:15.5473 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:52:15.5473 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:52:17.6393 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv. Данные считаны полностью
+2025-04-26 14:52:17.6730 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:52:17.6903 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 31 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 32 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 33 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 34 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 35 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 36 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 37 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 38 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 39 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 40 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 41 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 42 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 43 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 44 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 45 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 46 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 47 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 48 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 49 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 50 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 51 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 52 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 53 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 54 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 55 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 56 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 57 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 58 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 59 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Данные добавлены 60 из 30
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv. Данные считаны полностью
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:52:22.7000 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 61 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 62 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 63 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 64 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 65 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 66 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 67 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 68 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 69 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 70 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 71 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 72 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 73 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 74 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 75 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 76 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 77 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 78 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 79 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 80 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 81 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 82 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 83 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 84 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 85 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 86 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 87 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 88 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 89 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Данные добавлены 90 из 30
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv. Данные считаны полностью
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего считано данных 90
+2025-04-26 14:52:27.7171 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:52:27.7297 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:52:27.7297 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:52:27.7297 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:52:36.3188 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:52:36.3188 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:52:36.3188 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:52:36.3188 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:52:36.5333 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:52:36.5333 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:52:36.5333 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:52:36.5333 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:52:36.7482 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:52:36.7482 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:52:36.7482 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:52:36.7482 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:53:48.7414 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:53:48.7956 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:53:48.7956 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Файл(ы) за дату 26.04.2025 существует(ют)
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 1 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 2 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 3 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 4 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 5 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 6 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 7 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 8 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 9 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 10 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 11 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 12 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 13 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 14 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 15 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 16 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 17 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 18 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 19 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 20 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 21 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 22 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 23 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 24 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 25 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 26 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 27 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 28 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 29 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Данные добавлены 30 из 30
+2025-04-26 14:53:51.4352 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv. Данные считаны полностью
+2025-04-26 14:53:51.4629 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:53:51.4783 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 31 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 32 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 33 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 34 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 35 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 36 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 37 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 38 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 39 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 40 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 41 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 42 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 43 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 44 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 45 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 46 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 47 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 48 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 49 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 50 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 51 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 52 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 53 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 54 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 55 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 56 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 57 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 58 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 59 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Данные добавлены 60 из 30
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv. Данные считаны полностью
+2025-04-26 14:53:56.4778 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:53:56.4910 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm обработка файла Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 61 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 62 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 63 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 64 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 65 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 66 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 67 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 68 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 69 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 70 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 71 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 72 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 73 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 74 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 75 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 76 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 77 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 78 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 79 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 80 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 81 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 82 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 83 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 84 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 85 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 86 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 87 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 88 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 89 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Данные добавлены 90 из 30
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Обработан файл C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv. Данные считаны полностью
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Сбор данных для отрисовки графика.
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего считано данных 90
+2025-04-26 14:54:01.4987 QuotesWinFormsApp.MainForm Поток запущен
+2025-04-26 14:54:01.5164 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:54:01.5164 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:54:01.5164 QuotesWinFormsApp.MainForm Отрисовка данных ask в фоновом потоке.
+2025-04-26 14:54:09.4887 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:54:09.4887 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:54:09.4887 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:54:09.4887 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:54:09.6784 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:54:09.6784 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:54:09.6784 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:54:09.6784 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:54:09.8871 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv завершена.
+2025-04-26 14:54:09.8871 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv завершена.
+2025-04-26 14:54:09.8871 QuotesWinFormsApp.MainForm Отрисовка данных файла C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv завершена.
+2025-04-26 14:54:09.8871 QuotesWinFormsApp.MainForm График успешно обновлен.
+2025-04-26 14:57:38.8372 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:57:38.9030 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:57:38.9030 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:57:42.6295 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 14:57:42.6295 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 14:57:42.6295 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 14:57:42.6295 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 14:57:42.8465 QuotesWinFormsApp.MainForm Пауза 5 секунд...
+2025-04-26 14:57:47.8629 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 14:57:47.8992 QuotesWinFormsApp.MainForm Пауза 5 секунд...
+2025-04-26 14:57:52.9031 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 14:57:52.9280 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:00:39.5913 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:00:39.6350 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:00:39.6350 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:00:42.1533 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:00:42.1533 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:00:42.1533 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:00:42.1533 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:00:47.3618 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:00:52.4193 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:00:52.4448 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:01:51.3914 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:01:51.4367 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:01:51.4367 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:01:53.3039 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:01:53.3039 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:01:53.3039 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:01:53.3078 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:01:58.5285 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:02:03.5697 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:02:03.5975 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:02:29.5382 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:02:29.5921 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:02:29.5921 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:02:32.3705 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:02:32.3705 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:02:32.3705 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:02:32.3705 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:02:37.5755 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:02:58.5414 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:02:58.5887 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:02:58.5887 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:03:00.4768 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:03:00.4768 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:03:00.4768 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:03:00.4768 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:03:05.6827 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:03:10.7272 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:03:10.7430 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:04:32.1752 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:04:32.2184 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:04:32.2184 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:04:34.4372 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:04:34.4372 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:04:34.4372 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:04:34.4372 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:04:39.6349 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:04:44.6846 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:04:44.7134 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:11:38.2922 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:11:38.3357 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:11:38.3406 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:11:41.0332 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:11:41.0332 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:11:41.0332 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:11:41.0332 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:11:46.2544 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:11:51.3131 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:11:51.3371 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:14:39.0403 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:14:39.0886 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:14:39.0886 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:14:41.2029 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:14:41.2029 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:14:41.2029 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:14:41.2029 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:17:11.3244 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:17:11.3739 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:17:11.3739 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:17:14.3243 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:17:14.3243 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:17:14.3243 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:17:14.3243 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:17:19.5668 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:26:09.9080 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:26:09.9719 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:26:09.9719 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:26:12.2521 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:26:12.2521 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:26:12.2521 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:26:12.2521 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:26:17.4566 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:29:50.6048 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:29:50.6569 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:29:50.6569 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:29:53.7013 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:29:53.7013 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:29:53.7013 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:29:53.7013 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:29:59.0137 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:30:04.0559 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:30:04.0787 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:32:28.2031 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:32:28.2485 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:32:28.2485 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:32:30.4195 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:32:30.4195 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:32:30.4195 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:32:30.4195 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:32:35.6258 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:32:40.6712 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:32:40.6889 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:39:07.4286 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:39:07.4911 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:39:07.4941 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:39:09.9869 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:39:09.9869 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:39:09.9869 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:39:09.9997 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:39:15.0758 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:39:20.0941 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:39:20.0941 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:46:56.3422 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:46:56.4189 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:46:56.4189 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:46:58.6855 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:46:58.6855 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:46:58.6855 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:46:58.6970 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:46:58.6970 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:47:03.7669 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:47:08.7820 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:47:08.7820 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:47:15.6063 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:47:15.6063 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:47:15.6063 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:47:15.6063 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:47:15.6063 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:47:20.6662 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:48:03.3695 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:48:03.4207 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:48:03.4207 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:48:06.2707 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:48:06.2707 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:48:06.2707 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:48:06.2862 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:48:06.2862 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:48:11.3770 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:48:12.3557 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:48:12.3557 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:48:12.3557 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:48:16.3950 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:48:16.3950 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:48:38.9680 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:48:39.0160 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:48:39.0160 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:48:41.6574 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:48:41.6574 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:48:41.6574 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:48:41.6733 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:48:41.6733 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:48:46.7518 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:48:48.4557 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:48:48.4557 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:48:48.4557 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:49:57.4579 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:49:57.5085 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:49:57.5105 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:49:59.9867 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:49:59.9867 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:49:59.9867 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:50:00.0006 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:50:00.0006 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:50:05.0737 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:50:05.8716 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:50:05.8716 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:50:05.8716 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:50:10.0897 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:50:10.0897 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:50:10.9448 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:51:08.3159 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:51:08.3811 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:51:08.3811 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:51:10.7708 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:51:10.7708 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:51:10.7758 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:51:10.7758 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:51:10.7758 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:51:15.8562 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:51:16.5405 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:51:16.5459 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:51:16.5459 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:51:20.8633 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:51:20.8633 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:51:21.6013 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:51:47.4251 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:51:47.4906 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:51:47.4906 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:52:13.8936 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:52:13.9605 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:52:13.9640 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:52:15.9521 QuotesWinFormsApp.MainForm Максимальное количество потоков: 2047, максимальное количество доступных потоков: 1000, выбранное количество потоков: 10.
+2025-04-26 15:52:15.9521 QuotesWinFormsApp.MainForm Минимальное количество потоков: 12, Минимальное количество доступных потоков: 12, выбранное количество потоков: 10.
+2025-04-26 15:52:15.9521 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:52:15.9655 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:52:15.9655 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:52:21.0493 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:52:21.7028 QuotesWinFormsApp.MainForm Найдено 3 файлов за дату 26.04.2025
+2025-04-26 15:52:21.7028 QuotesWinFormsApp.MainForm Запущен поток отображения данных
+2025-04-26 15:52:21.7028 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:52:26.0664 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-33-08.csv
+2025-04-26 15:52:26.0664 QuotesWinFormsApp.MainForm Все файлы обработаны. Всего точек: 90
+2025-04-26 15:52:26.7742 QuotesWinFormsApp.MainForm Обработка файла: Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:53:59.0330 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-25.csv
+2025-04-26 15:53:59.0968 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-27-38.csv
+2025-04-26 15:53:59.0968 QuotesWinFormsApp.MainForm Найден файл: C:\Users\Алексей\Desktop\Учеба\github\QuotesApp\QuotesConsoleApp\QuotesConsoleApp\QuotesFiles\Quotes26.04.2025_12-33-08.csv
