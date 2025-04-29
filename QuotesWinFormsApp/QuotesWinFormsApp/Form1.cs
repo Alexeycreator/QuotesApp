@@ -31,6 +31,13 @@ namespace QuotesWinFormsApp
     };
     private CancellationTokenSource _cts;
     private string quantityPool;
+    private int countMining;
+    private int allCountMining;
+    private List<DataCoordinates> allData = new List<DataCoordinates>();
+    private int sizeCountMining = 0;
+    private int _countFiles = 0;
+    private List<DataCoordinates> fileData;
+    private List<string> todayFiles;
 
     #endregion
 
@@ -43,18 +50,7 @@ namespace QuotesWinFormsApp
     }
     private void MainForm_Load(object sender, EventArgs e)
     {
-      try
-      {
-        var files = GetTodayAllQuoteFiles();
-        foreach (var file in files)
-        {
-          logger.Info($"Найден файл: {file}");
-        }
-      }
-      catch (Exception ex)
-      {
-        logger.Error($"{ex.Message}");
-      }
+      Settings();
     }
 
     #endregion
@@ -65,18 +61,8 @@ namespace QuotesWinFormsApp
     {
       try
       {
-        //Для определения максимального количества потоков
-        ThreadPool.GetMaxThreads(out maxWorkerThreads, out maxCompletionPortThreads);
-        //Для определения минимального количества потоков
-        ThreadPool.GetMinThreads(out minWorkerThreads, out minCompletionPortThreads);
-        var _quantityPool = QuantityPool();
-        logger.Info($"Максимальное количество потоков: {maxWorkerThreads}, " +
-            $"максимальное количество доступных потоков: {maxCompletionPortThreads}, " +
-            $"выбранное количество потоков: {_quantityPool}.");
-        logger.Info($"Минимальное количество потоков: {minWorkerThreads}, " +
-            $"Минимальное количество доступных потоков: {minCompletionPortThreads}, " +
-            $"выбранное количество потоков: {_quantityPool}.");
         List<DataCoordinates> dataCoordinatesList = DataRecording();
+        btnAddDataGraph.Enabled = false;
       }
       catch (Exception ex)
       {
@@ -84,13 +70,115 @@ namespace QuotesWinFormsApp
       }
     }
 
+    private void btnInputAll_Click(object sender, EventArgs e)
+    {
+      for (int i = 0; i < countMining; i++)
+      {
+        seriesCheckedListBox.SetItemCheckState(i, CheckState.Checked);
+      }
+    }
+
+    private void btnClearAll_Click(object sender, EventArgs e)
+    {
+      if (allCountMining != sizeCountMining)
+      {
+        MessageBox.Show($"Нельзя очистить все элементы, еще не все заполнено");
+        return;
+      }
+      for (int i = 0; i < countMining; i++)
+      {
+        seriesCheckedListBox.SetItemCheckState(i, CheckState.Unchecked);
+      }
+    }
+
+    #endregion
+
+    #region RadioButtons Handlers
+
+    private void radioBtn_Ask_CheckedChanged(object sender, EventArgs e)
+    {
+      if (!btnAddDataGraph.Enabled && radioBtn_Ask.Checked)
+      {
+        RedrawChartWithCurrentSelection();
+      }
+      if (radioBtn_Ask.Checked && btnAddDataGraph.Enabled)
+      {
+        return;
+      }
+    }
+
+    private void radioBtn_Bid_CheckedChanged(object sender, EventArgs e)
+    {
+      if (!btnAddDataGraph.Enabled && radioBtn_Bid.Checked)
+      {
+        RedrawChartWithCurrentSelection();
+      }
+      if (radioBtn_Bid.Checked && btnAddDataGraph.Enabled)
+      {
+        return;
+      }
+    }
+
+    private void radioBtn_Mid_CheckedChanged(object sender, EventArgs e)
+    {
+      if (!btnAddDataGraph.Enabled && radioBtn_Mid.Checked)
+      {
+        RedrawChartWithCurrentSelection();
+      }
+      if (radioBtn_Mid.Checked && btnAddDataGraph.Enabled)
+      {
+        return;
+      }
+    }
+
     #endregion
 
     #region Methods
+
     //Расчет значения mid
     private double MidValueCalculation(int bid, int ask)
     {
       return (bid + ask) / 2;
+    }
+
+    private void Settings()
+    {
+      //Для определения максимального количества потоков
+      ThreadPool.GetMaxThreads(out maxWorkerThreads, out maxCompletionPortThreads);
+      //Для определения минимального количества потоков
+      ThreadPool.GetMinThreads(out minWorkerThreads, out minCompletionPortThreads);
+      var _quantityPool = QuantityPool();
+      logger.Info($"Максимальное количество потоков: {maxWorkerThreads}, " +
+          $"максимальное количество доступных потоков: {maxCompletionPortThreads}, " +
+          $"выбранное количество потоков: {_quantityPool}.");
+      logger.Info($"Минимальное количество потоков: {minWorkerThreads}, " +
+          $"Минимальное количество доступных потоков: {minCompletionPortThreads}, " +
+          $"выбранное количество потоков: {_quantityPool}.");
+      if (Convert.ToInt32(_quantityPool) < minCompletionPortThreads)
+      {
+        logger.Info($"Количество выбранных потоков ({_quantityPool}) не может быть меньше минимального количества доступных потоков ({minCompletionPortThreads})");
+        _quantityPool = minCompletionPortThreads.ToString();
+        logger.Info($"Количество выбранных потоков изменено = {_quantityPool}");
+      }
+      try
+      {
+        todayFiles = GetTodayAllQuoteFiles();
+        if (todayFiles != null)
+        {
+          foreach (var file in todayFiles)
+          {
+            _countFiles++;
+            logger.Info($"Найден {_countFiles} файл: {file}");
+            string[] lines = File.ReadAllLines(file).Skip(1).ToArray();
+            sizeCountMining += lines.Length;
+          }
+        }
+        logger.Info($"Всего точек должно быть {sizeCountMining}");
+      }
+      catch (Exception ex)
+      {
+        logger.Error($"{ex.Message}");
+      }
     }
 
     private string QuantityPool()
@@ -107,15 +195,16 @@ namespace QuotesWinFormsApp
       return Directory.GetFiles(dirCsvFilePath, $@"Quotes{todayDate}_*.csv").ToList();
     }
 
+    //отрисовка точек на графике
     private List<DataCoordinates> DataRecording()
     {
-      List<DataCoordinates> allData = new List<DataCoordinates>();
       _cts?.Cancel();
       _cts = new CancellationTokenSource();
       try
       {
-        var todayFiles = GetTodayAllQuoteFiles();
-        var _quantityPool = QuantityPool();
+        allData.Clear();
+        allCountMining = 0;
+        countMining = 0;
         logger.Info($"Найдено {todayFiles.Count} файлов за дату {dateGetQuetos}");
         chartGraph.Invoke((MethodInvoker)(() =>
         {
@@ -133,14 +222,21 @@ namespace QuotesWinFormsApp
               {
                 return;
               }
-              logger.Info($"Обработка файла: {Path.GetFileName(fileName)}");
-              var fileData = ProcessFillingSingleFile(fileName);
+              logger.Info($"\n----------------------------------------------------------\nОбработка файла: {Path.GetFileName(fileName)}");
+              fileData = ProcessFillingSingleFile(fileName);
               allData.AddRange(fileData);
               chartGraph.Invoke((MethodInvoker)(() =>
               {
                 var existingSeries = chartGraph.Series.Select(s => s.Name).ToList();
                 var newNames = fileData.Select(d => d.name).Distinct()
                                     .Where(name => !existingSeries.Contains(name));
+                seriesCheckedListBox.ItemCheck += (s, e) =>
+                {
+                  if (e.Index >= 0 && e.Index < chartGraph.Series.Count)
+                  {
+                    chartGraph.Series[e.Index].Enabled = (e.NewValue == CheckState.Checked);
+                  }
+                };
                 foreach (var name in newNames)
                 {
                   var series = new Series(name)
@@ -149,18 +245,32 @@ namespace QuotesWinFormsApp
                     Color = colors[chartGraph.Series.Count % colors.Length],
                     MarkerStyle = MarkerStyle.Circle,
                     MarkerSize = 8,
-                    IsValueShownAsLabel = true
+                    Enabled = true,
+                    IsValueShownAsLabel = false,
                   };
                   chartGraph.Series.Add(series);
                   seriesCheckedListBox.Items.Add(name, true);
                 }
+                chartGraph.ChartAreas[0].CursorX.IsUserEnabled = true;
+                chartGraph.ChartAreas[0].CursorY.IsUserEnabled = true;
                 foreach (var data in fileData)
                 {
                   var series = chartGraph.Series[data.name];
-                  int xValue = series.Points.Count + 1;
-                  series.Points.AddXY(xValue, GetValueToShow(data));
+                  int xValue = series.Points.Count;
+                  double yValue = GetValueToShow(data);
+                  DataPoint point = new DataPoint(xValue, yValue)
+                  {
+                    ToolTip = $"Значение в точке = {yValue}",
+                    MarkerStyle = MarkerStyle.Circle,
+                    MarkerSize = 8,
+                    MarkerColor = series.Color
+                  };
+                  series.Points.Add(point);
+                  logger.Info($"Отрисована точка {xValue + 1} файла {fileName} со значением {yValue}");
                 }
               }));
+              logger.Info($"Обработано {allData.Count} точек из {sizeCountMining}");
+              allCountMining = allData.Count;
               if (fileName != todayFiles.Last() && !_cts.Token.IsCancellationRequested)
               {
                 Thread.Sleep(5000);
@@ -182,14 +292,15 @@ namespace QuotesWinFormsApp
       {
         logger.Error($"Ошибка: {ex.Message}");
       }
-
       return allData;
     }
+
+    //заполнение данных для одного файла
     private List<DataCoordinates> ProcessFillingSingleFile(string filePath)
     {
-      var fileData = new List<DataCoordinates>();
+      logger.Info($"Заполнение данных из файла");
+      fileData = new List<DataCoordinates>();
       string[] lines = File.ReadAllLines(filePath).Skip(1).ToArray();
-
       foreach (var line in lines)
       {
         var parts = line.Split(';');
@@ -200,13 +311,20 @@ namespace QuotesWinFormsApp
             name = parts[0],
             bid = Convert.ToInt32(parts[1]),
             ask = Convert.ToInt32(parts[2]),
-            mid = MidValueCalculation(Convert.ToInt32(parts[1]), Convert.ToInt32(parts[2]))
+            mid = MidValueCalculation(Convert.ToInt32(parts[1]), Convert.ToInt32(parts[2])),
           });
+          logger.Info($"Заполнено значение {fileData.Count} точки из {lines.Count()}");
         }
+      }
+      if (fileData.Count == lines.Count())
+      {
+        logger.Info($"Все точки из файла {filePath} считаны успешно");
+        countMining = fileData.Count();
       }
       return fileData;
     }
 
+    //для выбора значений
     private double GetValueToShow(DataCoordinates data)
     {
       if (radioBtn_Ask.Checked)
@@ -224,8 +342,30 @@ namespace QuotesWinFormsApp
       return 0;
     }
 
-    private void radioBtn_Bid_CheckedChanged(object sender, EventArgs e)
+    //Для отображения нужного параметра в потоке
+    private void RedrawChartWithCurrentSelection()
     {
+      chartGraph.Invoke((MethodInvoker)(() =>
+      {
+        foreach (var series in chartGraph.Series)
+        {
+          series.Points.Clear();
+        }
+        foreach (var data in allData)
+        {
+          var series = chartGraph.Series[data.name];
+          int xValue = series.Points.Count;
+          double yValue = GetValueToShow(data);
+          DataPoint point = new DataPoint(xValue, yValue)
+          {
+            ToolTip = $"Значение в точке = {yValue}",
+            MarkerStyle = MarkerStyle.Circle,
+            MarkerSize = 8,
+            MarkerColor = series.Color
+          };
+          series.Points.Add(point);
+        }
+      }));
     }
 
     protected override void OnFormClosing(FormClosingEventArgs e)

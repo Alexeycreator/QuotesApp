@@ -37,6 +37,8 @@
       this.radioBtn_Ask = new System.Windows.Forms.RadioButton();
       this.radioBtn_Mid = new System.Windows.Forms.RadioButton();
       this.seriesCheckedListBox = new System.Windows.Forms.CheckedListBox();
+      this.btnInputAll = new System.Windows.Forms.Button();
+      this.btnClearAll = new System.Windows.Forms.Button();
       ((System.ComponentModel.ISupportInitialize)(this.chartGraph)).BeginInit();
       this.SuspendLayout();
       // 
@@ -44,7 +46,7 @@
       // 
       this.btnAddDataGraph.Location = new System.Drawing.Point(950, 547);
       this.btnAddDataGraph.Name = "btnAddDataGraph";
-      this.btnAddDataGraph.Size = new System.Drawing.Size(199, 72);
+      this.btnAddDataGraph.Size = new System.Drawing.Size(199, 47);
       this.btnAddDataGraph.TabIndex = 0;
       this.btnAddDataGraph.Text = "Нарисовать график";
       this.btnAddDataGraph.UseVisualStyleBackColor = true;
@@ -52,6 +54,15 @@
       // 
       // chartGraph
       // 
+      chartArea1.AxisX.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Seconds;
+      chartArea1.AxisX.Maximum = 6D;
+      chartArea1.AxisX.Minimum = 0D;
+      chartArea1.AxisX.ScrollBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+      chartArea1.AxisX.ScrollBar.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+      chartArea1.AxisX.ScrollBar.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+      chartArea1.AxisX2.ScrollBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+      chartArea1.AxisX2.ScrollBar.ButtonColor = System.Drawing.Color.Yellow;
+      chartArea1.AxisX2.ScrollBar.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
       chartArea1.Name = "ChartArea1";
       this.chartGraph.ChartAreas.Add(chartArea1);
       legend1.Name = "Legend1";
@@ -65,7 +76,7 @@
       series1.Legend = "Legend1";
       series1.Name = "Name";
       this.chartGraph.Series.Add(series1);
-      this.chartGraph.Size = new System.Drawing.Size(932, 604);
+      this.chartGraph.Size = new System.Drawing.Size(932, 629);
       this.chartGraph.TabIndex = 1;
       this.chartGraph.Text = "chart1";
       // 
@@ -91,6 +102,7 @@
       this.radioBtn_Ask.TabStop = true;
       this.radioBtn_Ask.Text = "Ask";
       this.radioBtn_Ask.UseVisualStyleBackColor = true;
+      this.radioBtn_Ask.CheckedChanged += new System.EventHandler(this.radioBtn_Ask_CheckedChanged);
       // 
       // radioBtn_Mid
       // 
@@ -102,6 +114,7 @@
       this.radioBtn_Mid.TabStop = true;
       this.radioBtn_Mid.Text = "Mid";
       this.radioBtn_Mid.UseVisualStyleBackColor = true;
+      this.radioBtn_Mid.CheckedChanged += new System.EventHandler(this.radioBtn_Mid_CheckedChanged);
       // 
       // seriesCheckedListBox
       // 
@@ -111,11 +124,33 @@
       this.seriesCheckedListBox.Size = new System.Drawing.Size(199, 378);
       this.seriesCheckedListBox.TabIndex = 5;
       // 
+      // btnInputAll
+      // 
+      this.btnInputAll.Location = new System.Drawing.Point(950, 600);
+      this.btnInputAll.Name = "btnInputAll";
+      this.btnInputAll.Size = new System.Drawing.Size(98, 47);
+      this.btnInputAll.TabIndex = 7;
+      this.btnInputAll.Text = "Выделить все";
+      this.btnInputAll.UseVisualStyleBackColor = true;
+      this.btnInputAll.Click += new System.EventHandler(this.btnInputAll_Click);
+      // 
+      // btnClearAll
+      // 
+      this.btnClearAll.Location = new System.Drawing.Point(1051, 600);
+      this.btnClearAll.Name = "btnClearAll";
+      this.btnClearAll.Size = new System.Drawing.Size(98, 47);
+      this.btnClearAll.TabIndex = 8;
+      this.btnClearAll.Text = "Очистить все";
+      this.btnClearAll.UseVisualStyleBackColor = true;
+      this.btnClearAll.Click += new System.EventHandler(this.btnClearAll_Click);
+      // 
       // MainForm
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(1161, 628);
+      this.ClientSize = new System.Drawing.Size(1161, 653);
+      this.Controls.Add(this.btnClearAll);
+      this.Controls.Add(this.btnInputAll);
       this.Controls.Add(this.seriesCheckedListBox);
       this.Controls.Add(this.radioBtn_Mid);
       this.Controls.Add(this.radioBtn_Ask);
@@ -139,6 +174,8 @@
         private System.Windows.Forms.RadioButton radioBtn_Ask;
         private System.Windows.Forms.RadioButton radioBtn_Mid;
     private System.Windows.Forms.CheckedListBox seriesCheckedListBox;
+    private System.Windows.Forms.Button btnInputAll;
+    private System.Windows.Forms.Button btnClearAll;
   }
 }
 
