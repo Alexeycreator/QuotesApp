@@ -54,15 +54,21 @@
       // 
       // chartGraph
       // 
+      chartArea1.AxisX.InterlacedColor = System.Drawing.Color.White;
+      chartArea1.AxisX.Interval = 1D;
       chartArea1.AxisX.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Seconds;
-      chartArea1.AxisX.Maximum = 6D;
+      chartArea1.AxisX.Maximum = 5D;
       chartArea1.AxisX.Minimum = 0D;
       chartArea1.AxisX.ScrollBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
       chartArea1.AxisX.ScrollBar.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
       chartArea1.AxisX.ScrollBar.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+      chartArea1.AxisX.TitleFont = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
       chartArea1.AxisX2.ScrollBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
       chartArea1.AxisX2.ScrollBar.ButtonColor = System.Drawing.Color.Yellow;
       chartArea1.AxisX2.ScrollBar.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+      chartArea1.AxisY.Interval = 10D;
+      chartArea1.AxisY.Maximum = 100D;
+      chartArea1.AxisY.Minimum = 0D;
       chartArea1.Name = "ChartArea1";
       this.chartGraph.ChartAreas.Add(chartArea1);
       legend1.Name = "Legend1";

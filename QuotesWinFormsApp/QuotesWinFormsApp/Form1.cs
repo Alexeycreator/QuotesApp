@@ -61,8 +61,16 @@ namespace QuotesWinFormsApp
     {
       try
       {
+        if (!radioBtn_Ask.Checked && !radioBtn_Bid.Checked && !radioBtn_Mid.Checked)
+        {
+          logger.Error($"Не выбран параметр отображаения");
+          MessageBox.Show($"Не выбран параметр отображения");
+          return;
+        }
         List<DataCoordinates> dataCoordinatesList = DataRecording();
         btnAddDataGraph.Enabled = false;
+        btnInputAll.Enabled = true;
+        btnClearAll.Enabled = true;
       }
       catch (Exception ex)
       {
@@ -143,6 +151,8 @@ namespace QuotesWinFormsApp
 
     private void Settings()
     {
+      btnClearAll.Enabled = false;
+      btnInputAll.Enabled = false;
       //Для определения максимального количества потоков
       ThreadPool.GetMaxThreads(out maxWorkerThreads, out maxCompletionPortThreads);
       //Для определения минимального количества потоков
@@ -202,9 +212,6 @@ namespace QuotesWinFormsApp
       _cts = new CancellationTokenSource();
       try
       {
-        allData.Clear();
-        allCountMining = 0;
-        countMining = 0;
         logger.Info($"Найдено {todayFiles.Count} файлов за дату {dateGetQuetos}");
         chartGraph.Invoke((MethodInvoker)(() =>
         {
