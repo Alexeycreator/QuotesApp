@@ -61,6 +61,8 @@ namespace QuotesWinFormsApp
     {
       try
       {
+        chartGraph.Visible = true;
+        chartGraph.ChartAreas[0].AxisX.Maximum = maxCompletionPortThreads;
         if (!radioBtn_Ask.Checked && !radioBtn_Bid.Checked && !radioBtn_Mid.Checked)
         {
           logger.Error($"Не выбран параметр отображаения");
@@ -151,6 +153,7 @@ namespace QuotesWinFormsApp
 
     private void Settings()
     {
+      chartGraph.Visible = false;
       btnClearAll.Enabled = false;
       btnInputAll.Enabled = false;
       //Для определения максимального количества потоков
@@ -274,6 +277,11 @@ namespace QuotesWinFormsApp
                   };
                   series.Points.Add(point);
                   logger.Info($"Отрисована точка {xValue + 1} файла {fileName} со значением {yValue}");
+                  double maxX = chartGraph.Series[0].Points.Max(p => p.XValue);
+                  if (maxX > chartGraph.ChartAreas[0].AxisX.ScaleView.Position + 8)
+                  {
+                    chartGraph.ChartAreas[0].AxisX.ScaleView.Position = maxX - 7;
+                  }
                 }
               }));
               logger.Info($"Обработано {allData.Count} точек из {sizeCountMining}");
